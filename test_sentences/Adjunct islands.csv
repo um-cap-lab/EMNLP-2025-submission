@@ -1,0 +1,241 @@
+item_id,condition,filler,gap,adjunct_type,prefix,filler_word,adjunct_trigger,prep,subj,mod,verb,obj,cont
+1,a,0,0,null,We discovered,that,,,the intern,at the new office,was preparing for,the presentation,with extra care.
+1,b,0,0,back,We discovered,that,the lights went out,while,the intern,at the new office,was preparing for,the presentation,with extra care.
+1,c,0,0,front,We discovered,that,the lights went out,while,the intern,at the new office,was preparing for,the presentation,with extra care.
+1,d,0,1,null,We discovered,that,,,the intern,at the new office,was preparing for,,with extra care.
+1,e,0,1,back,We discovered,that,the lights went out,while,the intern,at the new office,was preparing for,,with extra care.
+1,f,0,1,front,We discovered,that,the lights went out,while,the intern,at the new office,was preparing for,,with extra care.
+1,g,1,0,null,We discovered,what,,,the intern,at the new office,was preparing for,the presentation,with extra care.
+1,h,1,0,back,We discovered,what,the lights went out,while,the intern,at the new office,was preparing for,the presentation,with extra care.
+1,i,1,0,front,We discovered,what,the lights went out,while,the intern,at the new office,was preparing for,the presentation,with extra care.
+1,j,1,1,null,We discovered,what,,,the intern,at the new office,was preparing for,,with extra care.
+1,k,1,1,back,We discovered,what,the lights went out,while,the intern,at the new office,was preparing for,,with extra care.
+1,l,1,1,front,We discovered,what,the lights went out,while,the intern,at the new office,was preparing for,,with extra care.
+2,a,0,0,null,Maria realized,that,,,the visitor,in the lobby,was filling out,the registration form,with a shaky hand.
+2,b,0,0,back,Maria realized,that,the alarm rang loudly,while,the visitor,in the lobby,was filling out,the registration form,with a shaky hand.
+2,c,0,0,front,Maria realized,that,the alarm rang loudly,while,the visitor,in the lobby,was filling out,the registration form,with a shaky hand.
+2,d,0,1,null,Maria realized,that,,,the visitor,in the lobby,was filling out,,with a shaky hand.
+2,e,0,1,back,Maria realized,that,the alarm rang loudly,while,the visitor,in the lobby,was filling out,,with a shaky hand.
+2,f,0,1,front,Maria realized,that,the alarm rang loudly,while,the visitor,in the lobby,was filling out,,with a shaky hand.
+2,g,1,0,null,Maria realized,what,,,the visitor,in the lobby,was filling out,the registration form,with a shaky hand.
+2,h,1,0,back,Maria realized,what,the alarm rang loudly,while,the visitor,in the lobby,was filling out,the registration form,with a shaky hand.
+2,i,1,0,front,Maria realized,what,the alarm rang loudly,while,the visitor,in the lobby,was filling out,the registration form,with a shaky hand.
+2,j,1,1,null,Maria realized,what,,,the visitor,in the lobby,was filling out,,with a shaky hand.
+2,k,1,1,back,Maria realized,what,the alarm rang loudly,while,the visitor,in the lobby,was filling out,,with a shaky hand.
+2,l,1,1,front,Maria realized,what,the alarm rang loudly,while,the visitor,in the lobby,was filling out,,with a shaky hand.
+3,a,0,0,null,We found out,that,,,the mayor,of the city,gave,the opening speech,in front of the cheering crowd.
+3,b,0,0,back,We found out,that,the parade started,while,the mayor,of the city,gave,the opening speech,in front of the cheering crowd.
+3,c,0,0,front,We found out,that,the parade started,while,the mayor,of the city,gave,the opening speech,in front of the cheering crowd.
+3,d,0,1,null,We found out,that,,,the mayor,of the city,gave,,in front of the cheering crowd.
+3,e,0,1,back,We found out,that,the parade started,while,the mayor,of the city,gave,,in front of the cheering crowd.
+3,f,0,1,front,We found out,that,the parade started,while,the mayor,of the city,gave,,in front of the cheering crowd.
+3,g,1,0,null,We found out,what,,,the mayor,of the city,gave,the opening speech,in front of the cheering crowd.
+3,h,1,0,back,We found out,what,the parade started,while,the mayor,of the city,gave,the opening speech,in front of the cheering crowd.
+3,i,1,0,front,We found out,what,the parade started,while,the mayor,of the city,gave,the opening speech,in front of the cheering crowd.
+3,j,1,1,null,We found out,what,,,the mayor,of the city,gave,,in front of the cheering crowd.
+3,k,1,1,back,We found out,what,the parade started,while,the mayor,of the city,gave,,in front of the cheering crowd.
+3,l,1,1,front,We found out,what,the parade started,while,the mayor,of the city,gave,,in front of the cheering crowd.
+4,a,0,0,null,John noticed,that,,,the electrician,on the third floor,was repairing,the faulty wiring,with specialized tools.
+4,b,0,0,back,John noticed,that,the lights flickered,while,the electrician,on the third floor,was repairing,the faulty wiring,with specialized tools.
+4,c,0,0,front,John noticed,that,the lights flickered,while,the electrician,on the third floor,was repairing,the faulty wiring,with specialized tools.
+4,d,0,1,null,John noticed,that,,,the electrician,on the third floor,was repairing,,with specialized tools.
+4,e,0,1,back,John noticed,that,the lights flickered,while,the electrician,on the third floor,was repairing,,with specialized tools.
+4,f,0,1,front,John noticed,that,the lights flickered,while,the electrician,on the third floor,was repairing,,with specialized tools.
+4,g,1,0,null,John noticed,what,,,the electrician,on the third floor,was repairing,the faulty wiring,with specialized tools.
+4,h,1,0,back,John noticed,what,the lights flickered,while,the electrician,on the third floor,was repairing,the faulty wiring,with specialized tools.
+4,i,1,0,front,John noticed,what,the lights flickered,while,the electrician,on the third floor,was repairing,the faulty wiring,with specialized tools.
+4,j,1,1,null,John noticed,what,,,the electrician,on the third floor,was repairing,,with specialized tools.
+4,k,1,1,back,John noticed,what,the lights flickered,while,the electrician,on the third floor,was repairing,,with specialized tools.
+4,l,1,1,front,John noticed,what,the lights flickered,while,the electrician,on the third floor,was repairing,,with specialized tools.
+5,a,0,0,null,We imagined,that,,,the tourists,at the harbor,were painting,the commemorative mural,with bright colors.
+5,b,0,0,back,We imagined,that,the fireworks exploded,while,the tourists,at the harbor,were painting,the commemorative mural,with bright colors.
+5,c,0,0,front,We imagined,that,the fireworks exploded,while,the tourists,at the harbor,were painting,the commemorative mural,with bright colors.
+5,d,0,1,null,We imagined,that,,,the tourists,at the harbor,were painting,,with bright colors.
+5,e,0,1,back,We imagined,that,the fireworks exploded,while,the tourists,at the harbor,were painting,,with bright colors.
+5,f,0,1,front,We imagined,that,the fireworks exploded,while,the tourists,at the harbor,were painting,,with bright colors.
+5,g,1,0,null,We imagined,what,,,the tourists,at the harbor,were painting,the commemorative mural,with bright colors.
+5,h,1,0,back,We imagined,what,the fireworks exploded,while,the tourists,at the harbor,were painting,the commemorative mural,with bright colors.
+5,i,1,0,front,We imagined,what,the fireworks exploded,while,the tourists,at the harbor,were painting,the commemorative mural,with bright colors.
+5,j,1,1,null,We imagined,what,,,the tourists,at the harbor,were painting,,with bright colors.
+5,k,1,1,back,We imagined,what,the fireworks exploded,while,the tourists,at the harbor,were painting,,with bright colors.
+5,l,1,1,front,We imagined,what,the fireworks exploded,while,the tourists,at the harbor,were painting,,with bright colors.
+6,a,0,0,null,Maria feared,that,,,the visitor,in the lobby,was arranging,the display cases,with careful precision.
+6,b,0,0,back,Maria feared,that,the lights flickered,while,the visitor,in the lobby,was arranging,the display cases,with careful precision.
+6,c,0,0,front,Maria feared,that,the lights flickered,while,the visitor,in the lobby,was arranging,the display cases,with careful precision.
+6,d,0,1,null,Maria feared,that,,,the visitor,in the lobby,was arranging,,with careful precision.
+6,e,0,1,back,Maria feared,that,the lights flickered,while,the visitor,in the lobby,was arranging,,with careful precision.
+6,f,0,1,front,Maria feared,that,the lights flickered,while,the visitor,in the lobby,was arranging,,with careful precision.
+6,g,1,0,null,Maria feared,what,,,the visitor,in the lobby,was arranging,the display cases,with careful precision.
+6,h,1,0,back,Maria feared,what,the lights flickered,while,the visitor,in the lobby,was arranging,the display cases,with careful precision.
+6,i,1,0,front,Maria feared,what,the lights flickered,while,the visitor,in the lobby,was arranging,the display cases,with careful precision.
+6,j,1,1,null,Maria feared,what,,,the visitor,in the lobby,was arranging,,with careful precision.
+6,k,1,1,back,Maria feared,what,the lights flickered,while,the visitor,in the lobby,was arranging,,with careful precision.
+6,l,1,1,front,Maria feared,what,the lights flickered,while,the visitor,in the lobby,was arranging,,with careful precision.
+7,a,0,0,null,The child remembered,that,,,the clowns,on the main street,were decorating,the floats,with colorful ribbons.
+7,b,0,0,back,The child remembered,that,the parade started,while,the clowns,on the main street,were decorating,the floats,with colorful ribbons.
+7,c,0,0,front,The child remembered,that,the parade started,while,the clowns,on the main street,were decorating,the floats,with colorful ribbons.
+7,d,0,1,null,The child remembered,that,,,the clowns,on the main street,were decorating,,with colorful ribbons.
+7,e,0,1,back,The child remembered,that,the parade started,while,the clowns,on the main street,were decorating,,with colorful ribbons.
+7,f,0,1,front,The child remembered,that,the parade started,while,the clowns,on the main street,were decorating,,with colorful ribbons.
+7,g,1,0,null,The child remembered,what,,,the clowns,on the main street,were decorating,the floats,with colorful ribbons.
+7,h,1,0,back,The child remembered,what,the parade started,while,the clowns,on the main street,were decorating,the floats,with colorful ribbons.
+7,i,1,0,front,The child remembered,what,the parade started,while,the clowns,on the main street,were decorating,the floats,with colorful ribbons.
+7,j,1,1,null,The child remembered,what,,,the clowns,on the main street,were decorating,,with colorful ribbons.
+7,k,1,1,back,The child remembered,what,the parade started,while,the clowns,on the main street,were decorating,,with colorful ribbons.
+7,l,1,1,front,The child remembered,what,the parade started,while,the clowns,on the main street,were decorating,,with colorful ribbons.
+8,a,0,0,null,He wondered,that,,,the residents,in the building,were checking,the fire extinguishers,for expiration dates.
+8,b,0,0,back,He wondered,that,the sirens sounded,while,the residents,in the building,were checking,the fire extinguishers,for expiration dates.
+8,c,0,0,front,He wondered,that,the sirens sounded,while,the residents,in the building,were checking,the fire extinguishers,for expiration dates.
+8,d,0,1,null,He wondered,that,,,the residents,in the building,were checking,,for expiration dates.
+8,e,0,1,back,He wondered,that,the sirens sounded,while,the residents,in the building,were checking,,for expiration dates.
+8,f,0,1,front,He wondered,that,the sirens sounded,while,the residents,in the building,were checking,,for expiration dates.
+8,g,1,0,null,He wondered,what,,,the residents,in the building,were checking,the fire extinguishers,for expiration dates.
+8,h,1,0,back,He wondered,what,the sirens sounded,while,the residents,in the building,were checking,the fire extinguishers,for expiration dates.
+8,i,1,0,front,He wondered,what,the sirens sounded,while,the residents,in the building,were checking,the fire extinguishers,for expiration dates.
+8,j,1,1,null,He wondered,what,,,the residents,in the building,were checking,,for expiration dates.
+8,k,1,1,back,He wondered,what,the sirens sounded,while,the residents,in the building,were checking,,for expiration dates.
+8,l,1,1,front,He wondered,what,the sirens sounded,while,the residents,in the building,were checking,,for expiration dates.
+9,a,0,0,null,They expected,that,,,the hikers,on the trail,were packing,their backpacks,with necessary supplies.
+9,b,0,0,back,They expected,that,the fog rolled in,while,the hikers,on the trail,were packing,their backpacks,with necessary supplies.
+9,c,0,0,front,They expected,that,the fog rolled in,while,the hikers,on the trail,were packing,their backpacks,with necessary supplies.
+9,d,0,1,null,They expected,that,,,the hikers,on the trail,were packing,,with necessary supplies.
+9,e,0,1,back,They expected,that,the fog rolled in,while,the hikers,on the trail,were packing,,with necessary supplies.
+9,f,0,1,front,They expected,that,the fog rolled in,while,the hikers,on the trail,were packing,,with necessary supplies.
+9,g,1,0,null,They expected,what,,,the hikers,on the trail,were packing,their backpacks,with necessary supplies.
+9,h,1,0,back,They expected,what,the fog rolled in,while,the hikers,on the trail,were packing,their backpacks,with necessary supplies.
+9,i,1,0,front,They expected,what,the fog rolled in,while,the hikers,on the trail,were packing,their backpacks,with necessary supplies.
+9,j,1,1,null,They expected,what,,,the hikers,on the trail,were packing,,with necessary supplies.
+9,k,1,1,back,They expected,what,the fog rolled in,while,the hikers,on the trail,were packing,,with necessary supplies.
+9,l,1,1,front,They expected,what,the fog rolled in,while,the hikers,on the trail,were packing,,with necessary supplies.
+10,a,0,0,null,I just learned,that,,,the students,in the dormitory,were submitting,their assignments,through the online portal.
+10,b,0,0,back,I just learned,that,the alarm went off,while,the students,in the dormitory,were submitting,their assignments,through the online portal.
+10,c,0,0,front,I just learned,that,the alarm went off,while,the students,in the dormitory,were submitting,their assignments,through the online portal.
+10,d,0,1,null,I just learned,that,,,the students,in the dormitory,were submitting,,through the online portal.
+10,e,0,1,back,I just learned,that,the alarm went off,while,the students,in the dormitory,were submitting,,through the online portal.
+10,f,0,1,front,I just learned,that,the alarm went off,while,the students,in the dormitory,were submitting,,through the online portal.
+10,g,1,0,null,I just learned,what,,,the students,in the dormitory,were submitting,their assignments,through the online portal.
+10,h,1,0,back,I just learned,what,the alarm went off,while,the students,in the dormitory,were submitting,their assignments,through the online portal.
+10,i,1,0,front,I just learned,what,the alarm went off,while,the students,in the dormitory,were submitting,their assignments,through the online portal.
+10,j,1,1,null,I just learned,what,,,the students,in the dormitory,were submitting,,through the online portal.
+10,k,1,1,back,I just learned,what,the alarm went off,while,the students,in the dormitory,were submitting,,through the online portal.
+10,l,1,1,front,I just learned,what,the alarm went off,while,the students,in the dormitory,were submitting,,through the online portal.
+11,a,0,0,null,Alex guessed,that,,,the children,at the park,were collecting,the scattered toys,in colorful baskets.
+11,b,0,0,back,Alex guessed,that,the birds scattered,while,the children,at the park,were collecting,the scattered toys,in colorful baskets.
+11,c,0,0,front,Alex guessed,that,the birds scattered,while,the children,at the park,were collecting,the scattered toys,in colorful baskets.
+11,d,0,1,null,Alex guessed,that,,,the children,at the park,were collecting,,in colorful baskets.
+11,e,0,1,back,Alex guessed,that,the birds scattered,while,the children,at the park,were collecting,,in colorful baskets.
+11,f,0,1,front,Alex guessed,that,the birds scattered,while,the children,at the park,were collecting,,in colorful baskets.
+11,g,1,0,null,Alex guessed,what,,,the children,at the park,were collecting,the scattered toys,in colorful baskets.
+11,h,1,0,back,Alex guessed,what,the birds scattered,while,the children,at the park,were collecting,the scattered toys,in colorful baskets.
+11,i,1,0,front,Alex guessed,what,the birds scattered,while,the children,at the park,were collecting,the scattered toys,in colorful baskets.
+11,j,1,1,null,Alex guessed,what,,,the children,at the park,were collecting,,in colorful baskets.
+11,k,1,1,back,Alex guessed,what,the birds scattered,while,the children,at the park,were collecting,,in colorful baskets.
+11,l,1,1,front,Alex guessed,what,the birds scattered,while,the children,at the park,were collecting,,in colorful baskets.
+12,a,0,0,null,The coordinator predicted,that,,,the volunteers,at the festival,were setting up,the booths,with waterproof covers.
+12,b,0,0,back,The coordinator predicted,that,the rain started,while,the volunteers,at the festival,were setting up,the booths,with waterproof covers.
+12,c,0,0,front,The coordinator predicted,that,the rain started,while,the volunteers,at the festival,were setting up,the booths,with waterproof covers.
+12,d,0,1,null,The coordinator predicted,that,,,the volunteers,at the festival,were setting up,,with waterproof covers.
+12,e,0,1,back,The coordinator predicted,that,the rain started,while,the volunteers,at the festival,were setting up,,with waterproof covers.
+12,f,0,1,front,The coordinator predicted,that,the rain started,while,the volunteers,at the festival,were setting up,,with waterproof covers.
+12,g,1,0,null,The coordinator predicted,what,,,the volunteers,at the festival,were setting up,the booths,with waterproof covers.
+12,h,1,0,back,The coordinator predicted,what,the rain started,while,the volunteers,at the festival,were setting up,the booths,with waterproof covers.
+12,i,1,0,front,The coordinator predicted,what,the rain started,while,the volunteers,at the festival,were setting up,the booths,with waterproof covers.
+12,j,1,1,null,The coordinator predicted,what,,,the volunteers,at the festival,were setting up,,with waterproof covers.
+12,k,1,1,back,The coordinator predicted,what,the rain started,while,the volunteers,at the festival,were setting up,,with waterproof covers.
+12,l,1,1,front,The coordinator predicted,what,the rain started,while,the volunteers,at the festival,were setting up,,with waterproof covers.
+13,a,0,0,null,We heard,that,,,the worker,on the site,was lifting,the heavy beams,with a hydraulic jack.
+13,b,0,0,back,We heard,that,the door slammed shut,while,the worker,on the site,was lifting,the heavy beams,with a hydraulic jack.
+13,c,0,0,front,We heard,that,the door slammed shut,while,the worker,on the site,was lifting,the heavy beams,with a hydraulic jack.
+13,d,0,1,null,We heard,that,,,the worker,on the site,was lifting,,with a hydraulic jack.
+13,e,0,1,back,We heard,that,the door slammed shut,while,the worker,on the site,was lifting,,with a hydraulic jack.
+13,f,0,1,front,We heard,that,the door slammed shut,while,the worker,on the site,was lifting,,with a hydraulic jack.
+13,g,1,0,null,We heard,what,,,the worker,on the site,was lifting,the heavy beams,with a hydraulic jack.
+13,h,1,0,back,We heard,what,the door slammed shut,while,the worker,on the site,was lifting,the heavy beams,with a hydraulic jack.
+13,i,1,0,front,We heard,what,the door slammed shut,while,the worker,on the site,was lifting,the heavy beams,with a hydraulic jack.
+13,j,1,1,null,We heard,what,,,the worker,on the site,was lifting,,with a hydraulic jack.
+13,k,1,1,back,We heard,what,the door slammed shut,while,the worker,on the site,was lifting,,with a hydraulic jack.
+13,l,1,1,front,We heard,what,the door slammed shut,while,the worker,on the site,was lifting,,with a hydraulic jack.
+14,a,0,0,null,The teacher guessed,that,,,the students,in the classroom,were reviewing,the practice tests,with study partners.
+14,b,0,0,back,The teacher guessed,that,the lights shut down,while,the students,in the classroom,were reviewing,the practice tests,with study partners.
+14,c,0,0,front,The teacher guessed,that,the lights shut down,while,the students,in the classroom,were reviewing,the practice tests,with study partners.
+14,d,0,1,null,The teacher guessed,that,,,the students,in the classroom,were reviewing,,with study partners.
+14,e,0,1,back,The teacher guessed,that,the lights shut down,while,the students,in the classroom,were reviewing,,with study partners.
+14,f,0,1,front,The teacher guessed,that,the lights shut down,while,the students,in the classroom,were reviewing,,with study partners.
+14,g,1,0,null,The teacher guessed,what,,,the students,in the classroom,were reviewing,the practice tests,with study partners.
+14,h,1,0,back,The teacher guessed,what,the lights shut down,while,the students,in the classroom,were reviewing,the practice tests,with study partners.
+14,i,1,0,front,The teacher guessed,what,the lights shut down,while,the students,in the classroom,were reviewing,the practice tests,with study partners.
+14,j,1,1,null,The teacher guessed,what,,,the students,in the classroom,were reviewing,,with study partners.
+14,k,1,1,back,The teacher guessed,what,the lights shut down,while,the students,in the classroom,were reviewing,,with study partners.
+14,l,1,1,front,The teacher guessed,what,the lights shut down,while,the students,in the classroom,were reviewing,,with study partners.
+15,a,0,0,null,They suspected,that,,,the janitor,in the basement,was replacing,the old pipes,with new fittings.
+15,b,0,0,back,They suspected,that,the sprinklers activated,while,the janitor,in the basement,was replacing,the old pipes,with new fittings.
+15,c,0,0,front,They suspected,that,the sprinklers activated,while,the janitor,in the basement,was replacing,the old pipes,with new fittings.
+15,d,0,1,null,They suspected,that,,,the janitor,in the basement,was replacing,,with new fittings.
+15,e,0,1,back,They suspected,that,the sprinklers activated,while,the janitor,in the basement,was replacing,,with new fittings.
+15,f,0,1,front,They suspected,that,the sprinklers activated,while,the janitor,in the basement,was replacing,,with new fittings.
+15,g,1,0,null,They suspected,what,,,the janitor,in the basement,was replacing,the old pipes,with new fittings.
+15,h,1,0,back,They suspected,what,the sprinklers activated,while,the janitor,in the basement,was replacing,the old pipes,with new fittings.
+15,i,1,0,front,They suspected,what,the sprinklers activated,while,the janitor,in the basement,was replacing,the old pipes,with new fittings.
+15,j,1,1,null,They suspected,what,,,the janitor,in the basement,was replacing,,with new fittings.
+15,k,1,1,back,They suspected,what,the sprinklers activated,while,the janitor,in the basement,was replacing,,with new fittings.
+15,l,1,1,front,They suspected,what,the sprinklers activated,while,the janitor,in the basement,was replacing,,with new fittings.
+16,a,0,0,null,The nurse remembered,that,,,the patients,on the third floor,were gathering,their belongings,in a hurry.
+16,b,0,0,back,The nurse remembered,that,the fire alarm rang,while,the patients,on the third floor,were gathering,their belongings,in a hurry.
+16,c,0,0,front,The nurse remembered,that,the fire alarm rang,while,the patients,on the third floor,were gathering,their belongings,in a hurry.
+16,d,0,1,null,The nurse remembered,that,,,the patients,on the third floor,were gathering,,in a hurry.
+16,e,0,1,back,The nurse remembered,that,the fire alarm rang,while,the patients,on the third floor,were gathering,,in a hurry.
+16,f,0,1,front,The nurse remembered,that,the fire alarm rang,while,the patients,on the third floor,were gathering,,in a hurry.
+16,g,1,0,null,The nurse remembered,what,,,the patients,on the third floor,were gathering,their belongings,in a hurry.
+16,h,1,0,back,The nurse remembered,what,the fire alarm rang,while,the patients,on the third floor,were gathering,their belongings,in a hurry.
+16,i,1,0,front,The nurse remembered,what,the fire alarm rang,while,the patients,on the third floor,were gathering,their belongings,in a hurry.
+16,j,1,1,null,The nurse remembered,what,,,the patients,on the third floor,were gathering,,in a hurry.
+16,k,1,1,back,The nurse remembered,what,the fire alarm rang,while,the patients,on the third floor,were gathering,,in a hurry.
+16,l,1,1,front,The nurse remembered,what,the fire alarm rang,while,the patients,on the third floor,were gathering,,in a hurry.
+17,a,0,0,null,You realized,that,,,the operator,in the workshop,was assembling,the engine parts,with specialized tools.
+17,b,0,0,back,You realized,that,the machine overheated,while,the operator,in the workshop,was assembling,the engine parts,with specialized tools.
+17,c,0,0,front,You realized,that,the machine overheated,while,the operator,in the workshop,was assembling,the engine parts,with specialized tools.
+17,d,0,1,null,You realized,that,,,the operator,in the workshop,was assembling,,with specialized tools.
+17,e,0,1,back,You realized,that,the machine overheated,while,the operator,in the workshop,was assembling,,with specialized tools.
+17,f,0,1,front,You realized,that,the machine overheated,while,the operator,in the workshop,was assembling,,with specialized tools.
+17,g,1,0,null,You realized,what,,,the operator,in the workshop,was assembling,the engine parts,with specialized tools.
+17,h,1,0,back,You realized,what,the machine overheated,while,the operator,in the workshop,was assembling,the engine parts,with specialized tools.
+17,i,1,0,front,You realized,what,the machine overheated,while,the operator,in the workshop,was assembling,the engine parts,with specialized tools.
+17,j,1,1,null,You realized,what,,,the operator,in the workshop,was assembling,,with specialized tools.
+17,k,1,1,back,You realized,what,the machine overheated,while,the operator,in the workshop,was assembling,,with specialized tools.
+17,l,1,1,front,You realized,what,the machine overheated,while,the operator,in the workshop,was assembling,,with specialized tools.
+18,a,0,0,null,The lawyer expected,that,,,the prosecutor,at the trial,was questioning,the defendant,in front of the jury.
+18,b,0,0,back,The lawyer expected,that,the witness collapsed,while,the prosecutor,at the trial,was questioning,the defendant,in front of the jury.
+18,c,0,0,front,The lawyer expected,that,the witness collapsed,while,the prosecutor,at the trial,was questioning,the defendant,in front of the jury.
+18,d,0,1,null,The lawyer expected,that,,,the prosecutor,at the trial,was questioning,,in front of the jury.
+18,e,0,1,back,The lawyer expected,that,the witness collapsed,while,the prosecutor,at the trial,was questioning,,in front of the jury.
+18,f,0,1,front,The lawyer expected,that,the witness collapsed,while,the prosecutor,at the trial,was questioning,,in front of the jury.
+18,g,1,0,null,The lawyer expected,what,,,the prosecutor,at the trial,was questioning,the defendant,in front of the jury.
+18,h,1,0,back,The lawyer expected,what,the witness collapsed,while,the prosecutor,at the trial,was questioning,the defendant,in front of the jury.
+18,i,1,0,front,The lawyer expected,what,the witness collapsed,while,the prosecutor,at the trial,was questioning,the defendant,in front of the jury.
+18,j,1,1,null,The lawyer expected,what,,,the prosecutor,at the trial,was questioning,,in front of the jury.
+18,k,1,1,back,The lawyer expected,what,the witness collapsed,while,the prosecutor,at the trial,was questioning,,in front of the jury.
+18,l,1,1,front,The lawyer expected,what,the witness collapsed,while,the prosecutor,at the trial,was questioning,,in front of the jury.
+19,a,0,0,null,The detective predicted,that,,,the officers,at the checkpoint,were inspecting,the vehicle,with trained dogs.
+19,b,0,0,back,The detective predicted,that,the suspect fled,while,the officers,at the checkpoint,were inspecting,the vehicle,with trained dogs.
+19,c,0,0,front,The detective predicted,that,the suspect fled,while,the officers,at the checkpoint,were inspecting,the vehicle,with trained dogs.
+19,d,0,1,null,The detective predicted,that,,,the officers,at the checkpoint,were inspecting,,with trained dogs.
+19,e,0,1,back,The detective predicted,that,the suspect fled,while,the officers,at the checkpoint,were inspecting,,with trained dogs.
+19,f,0,1,front,The detective predicted,that,the suspect fled,while,the officers,at the checkpoint,were inspecting,,with trained dogs.
+19,g,1,0,null,The detective predicted,what,,,the officers,at the checkpoint,were inspecting,the vehicle,with trained dogs.
+19,h,1,0,back,The detective predicted,what,the suspect fled,while,the officers,at the checkpoint,were inspecting,the vehicle,with trained dogs.
+19,i,1,0,front,The detective predicted,what,the suspect fled,while,the officers,at the checkpoint,were inspecting,the vehicle,with trained dogs.
+19,j,1,1,null,The detective predicted,what,,,the officers,at the checkpoint,were inspecting,,with trained dogs.
+19,k,1,1,back,The detective predicted,what,the suspect fled,while,the officers,at the checkpoint,were inspecting,,with trained dogs.
+19,l,1,1,front,The detective predicted,what,the suspect fled,while,the officers,at the checkpoint,were inspecting,,with trained dogs.
+20,a,0,0,null,The student remembered,that,,,the professor,in the lecture hall,was distributing,the answer sheets,with careful instructions.
+20,b,0,0,back,The student remembered,that,the exam started,while,the professor,in the lecture hall,was distributing,the answer sheets,with careful instructions.
+20,c,0,0,front,The student remembered,that,the exam started,while,the professor,in the lecture hall,was distributing,the answer sheets,with careful instructions.
+20,d,0,1,null,The student remembered,that,,,the professor,in the lecture hall,was distributing,,with careful instructions.
+20,e,0,1,back,The student remembered,that,the exam started,while,the professor,in the lecture hall,was distributing,,with careful instructions.
+20,f,0,1,front,The student remembered,that,the exam started,while,the professor,in the lecture hall,was distributing,,with careful instructions.
+20,g,1,0,null,The student remembered,what,,,the professor,in the lecture hall,was distributing,the answer sheets,with careful instructions.
+20,h,1,0,back,The student remembered,what,the exam started,while,the professor,in the lecture hall,was distributing,the answer sheets,with careful instructions.
+20,i,1,0,front,The student remembered,what,the exam started,while,the professor,in the lecture hall,was distributing,the answer sheets,with careful instructions.
+20,j,1,1,null,The student remembered,what,,,the professor,in the lecture hall,was distributing,,with careful instructions.
+20,k,1,1,back,The student remembered,what,the exam started,while,the professor,in the lecture hall,was distributing,,with careful instructions.
+20,l,1,1,front,The student remembered,what,the exam started,while,the professor,in the lecture hall,was distributing,,with careful instructions.

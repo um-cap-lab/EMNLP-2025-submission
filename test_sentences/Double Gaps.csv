@@ -1,0 +1,161 @@
+item_id,condition,filler,gap,subject_gap,object_gap,prefix,licensor,subj,verb,object,modifier
+1,a,0,0,0,0,James realized,that,the dog,chased,the cat,through the yard.
+1,b,0,1,1,0,James realized,that,,chased,the cat,through the yard.
+1,c,0,1,0,1,James realized,that,the dog,chased,,through the yard.
+1,d,0,1,1,1,James realized,that,,chased,,through the yard.
+1,e,1,0,0,0,James realized,what,the dog,chased,the cat,through the yard.
+1,f,1,1,1,0,James realized,what,,chased,the cat,through the yard.
+1,g,1,1,0,1,James realized,what,the dog,chased,,through the yard.
+1,h,1,1,1,1,James realized,what,,chased,,through the yard.
+2,a,0,0,0,0,The students think,that,the cat,caught,the mouse,under the couch.
+2,b,0,1,1,0,The students think,that,,caught,the mouse,under the couch.
+2,c,0,1,0,1,The students think,that,the cat,caught,,under the couch.
+2,d,0,1,1,1,The students think,that,,caught,,under the couch.
+2,e,1,0,0,0,The students think,what,the cat,caught,the mouse,under the couch.
+2,f,1,1,1,0,The students think,what,,caught,the mouse,under the couch.
+2,g,1,1,0,1,The students think,what,the cat,caught,,under the couch.
+2,h,1,1,1,1,The students think,what,,caught,,under the couch.
+3,a,0,0,0,0,Mary realized,that,the rabbit,ate,the lettuce,from the garden.
+3,b,0,1,1,0,Mary realized,that,,ate,the lettuce,from the garden.
+3,c,0,1,0,1,Mary realized,that,the rabbit,ate,,from the garden.
+3,d,0,1,1,1,Mary realized,that,,ate,,from the garden.
+3,e,1,0,0,0,Mary realized,what,the rabbit,ate,the lettuce,from the garden.
+3,f,1,1,1,0,Mary realized,what,,ate,the lettuce,from the garden.
+3,g,1,1,0,1,Mary realized,what,the rabbit,ate,,from the garden.
+3,h,1,1,1,1,Mary realized,what,,ate,,from the garden.
+4,a,0,0,0,0,John knows,that,the police,found,the thief,in the alley.
+4,b,0,1,1,0,John knows,that,,found,the thief,in the alley.
+4,c,0,1,0,1,John knows,that,the police,found,,in the alley.
+4,d,0,1,1,1,John knows,that,,found,,in the alley.
+4,e,1,0,0,0,John knows,what,the police,found,the thief,in the alley.
+4,f,1,1,1,0,John knows,what,,found,the thief,in the alley.
+4,g,1,1,0,1,John knows,what,the police,found,,in the alley.
+4,h,1,1,1,1,John knows,what,,found,,in the alley.
+5,a,0,0,0,0,The children know,that,the clown,chose,the volunteer,from the crowd.
+5,b,0,1,1,0,The children know,that,,chose,the volunteer,from the crowd.
+5,c,0,1,0,1,The children know,that,the clown,chose,,from the crowd.
+5,d,0,1,1,1,The children know,that,,chose,,from the crowd.
+5,e,1,0,0,0,The children know,what,the clown,chose,the volunteer,from the crowd.
+5,f,1,1,1,0,The children know,what,,chose,the volunteer,from the crowd.
+5,g,1,1,0,1,The children know,what,the clown,chose,,from the crowd.
+5,h,1,1,1,1,The children know,what,,chose,,from the crowd.
+6,a,0,0,0,0,The prince said,that,the servant,cleaned,the hall,before the guests arrived.
+6,b,0,1,1,0,The prince said,that,,cleaned,the hall,before the guests arrived.
+6,c,0,1,0,1,The prince said,that,the servant,cleaned,,before the guests arrived.
+6,d,0,1,1,1,The prince said,that,,cleaned,,before the guests arrived.
+6,e,1,0,0,0,The prince said,what,the servant,cleaned,the hall,before the guests arrived.
+6,f,1,1,1,0,The prince said,what,,cleaned,the hall,before the guests arrived.
+6,g,1,1,0,1,The prince said,what,the servant,cleaned,,before the guests arrived.
+6,h,1,1,1,1,The prince said,what,,cleaned,,before the guests arrived.
+7,a,0,0,0,0,We know,that,the horse,kicked,the fence,near the stable.
+7,b,0,1,1,0,We know,that,,kicked,the fence,near the stable.
+7,c,0,1,0,1,We know,that,the horse,kicked,,near the stable.
+7,d,0,1,1,1,We know,that,,kicked,,near the stable.
+7,e,1,0,0,0,We know,what,the horse,kicked,the fence,near the stable.
+7,f,1,1,1,0,We know,what,,kicked,the fence,near the stable.
+7,g,1,1,0,1,We know,what,the horse,kicked,,near the stable.
+7,h,1,1,1,1,We know,what,,kicked,,near the stable.
+8,a,0,0,0,0,They laughed over,that,the dog,chased,the squirrel,through the park.
+8,b,0,1,1,0,They laughed over,that,,chased,the squirrel,through the park.
+8,c,0,1,0,1,They laughed over,that,the dog,chased,,through the park.
+8,d,0,1,1,1,They laughed over,that,,chased,,through the park.
+8,e,1,0,0,0,They laughed over,what,the dog,chased,the squirrel,through the park.
+8,f,1,1,1,0,They laughed over,what,,chased,the squirrel,through the park.
+8,g,1,1,0,1,They laughed over,what,the dog,chased,,through the park.
+8,h,1,1,1,1,They laughed over,what,,chased,,through the park.
+9,a,0,0,0,0,The police know,that,the thief,stole,the painting,from the museum.
+9,b,0,1,1,0,The police know,that,,stole,the painting,from the museum.
+9,c,0,1,0,1,The police know,that,the thief,stole,,from the museum.
+9,d,0,1,1,1,The police know,that,,stole,,from the museum.
+9,e,1,0,0,0,The police know,what,the thief,stole,the painting,from the museum.
+9,f,1,1,1,0,The police know,what,,stole,the painting,from the museum.
+9,g,1,1,0,1,The police know,what,the thief,stole,,from the museum.
+9,h,1,1,1,1,The police know,what,,stole,,from the museum.
+10,a,0,0,0,0,Alice realized,that,her mother,prepared,the meal,in the kitchen.
+10,b,0,1,1,0,Alice realized,that,,prepared,the meal,in the kitchen.
+10,c,0,1,0,1,Alice realized,that,her mother,prepared,,in the kitchen.
+10,d,0,1,1,1,Alice realized,that,,prepared,,in the kitchen.
+10,e,1,0,0,0,Alice realized,what,her mother,prepared,the meal,in the kitchen.
+10,f,1,1,1,0,Alice realized,what,,prepared,the meal,in the kitchen.
+10,g,1,1,0,1,Alice realized,what,her mother,prepared,,in the kitchen.
+10,h,1,1,1,1,Alice realized,what,,prepared,,in the kitchen.
+11,a,0,0,0,0,The teacher liked,that,the student,answered,the question,during the test.
+11,b,0,1,1,0,The teacher liked,that,,answered,the question,during the test.
+11,c,0,1,0,1,The teacher liked,that,the student,answered,,during the test.
+11,d,0,1,1,1,The teacher liked,that,,answered,,during the test.
+11,e,1,0,0,0,The teacher liked,what,the student,answered,the question,during the test.
+11,f,1,1,1,0,The teacher liked,what,,answered,the question,during the test.
+11,g,1,1,0,1,The teacher liked,what,the student,answered,,during the test.
+11,h,1,1,1,1,The teacher liked,what,,answered,,during the test.
+12,a,0,0,0,0,Jack guesses,that,the teacher,called,the parents,after the meeting.
+12,b,0,1,1,0,Jack guesses,that,,called,the parents,after the meeting.
+12,c,0,1,0,1,Jack guesses,that,the teacher,called,,after the meeting.
+12,d,0,1,1,1,Jack guesses,that,,called,,after the meeting.
+12,e,1,0,0,0,Jack guesses,what,the teacher,called,the parents,after the meeting.
+12,f,1,1,1,0,Jack guesses,what,,called,the parents,after the meeting.
+12,g,1,1,0,1,Jack guesses,what,the teacher,called,,after the meeting.
+12,h,1,1,1,1,Jack guesses,what,,called,,after the meeting.
+13,a,0,0,0,0,Alex knows,that,the lion,attacked,the zebra,near the river.
+13,b,0,1,1,0,Alex knows,that,,attacked,the zebra,near the river.
+13,c,0,1,0,1,Alex knows,that,the lion,attacked,,near the river.
+13,d,0,1,1,1,Alex knows,that,,attacked,,near the river.
+13,e,1,0,0,0,Alex knows,what,the lion,attacked,the zebra,near the river.
+13,f,1,1,1,0,Alex knows,what,,attacked,the zebra,near the river.
+13,g,1,1,0,1,Alex knows,what,the lion,attacked,,near the river.
+13,h,1,1,1,1,Alex knows,what,,attacked,,near the river.
+14,a,0,0,0,0,The tourists realized,that,the guide,lost,the map,during the hike.
+14,b,0,1,1,0,The tourists realized,that,,lost,the map,during the hike.
+14,c,0,1,0,1,The tourists realized,that,the guide,lost,,during the hike.
+14,d,0,1,1,1,The tourists realized,that,,lost,,during the hike.
+14,e,1,0,0,0,The tourists realized,what,the guide,lost,the map,during the hike.
+14,f,1,1,1,0,The tourists realized,what,,lost,the map,during the hike.
+14,g,1,1,0,1,The tourists realized,what,the guide,lost,,during the hike.
+14,h,1,1,1,1,The tourists realized,what,,lost,,during the hike.
+15,a,0,0,0,0,The scientist predicts,that,the storm,damaged,the equipment,at the research station.
+15,b,0,1,1,0,The scientist predicts,that,,damaged,the equipment,at the research station.
+15,c,0,1,0,1,The scientist predicts,that,the storm,damaged,,at the research station.
+15,d,0,1,1,1,The scientist predicts,that,,damaged,,at the research station.
+15,e,1,0,0,0,The scientist predicts,what,the storm,damaged,the equipment,at the research station.
+15,f,1,1,1,0,The scientist predicts,what,,damaged,the equipment,at the research station.
+15,g,1,1,0,1,The scientist predicts,what,the storm,damaged,,at the research station.
+15,h,1,1,1,1,The scientist predicts,what,,damaged,,at the research station.
+16,a,0,0,0,0,The writer is told,that,the editor,accepted,the article,for the next issue.
+16,b,0,1,1,0,The writer is told,that,,accepted,the article,for the next issue.
+16,c,0,1,0,1,The writer is told,that,the editor,accepted,,for the next issue.
+16,d,0,1,1,1,The writer is told,that,,accepted,,for the next issue.
+16,e,1,0,0,0,The writer is told,what,the editor,accepted,the article,for the next issue.
+16,f,1,1,1,0,The writer is told,what,,accepted,the article,for the next issue.
+16,g,1,1,0,1,The writer is told,what,the editor,accepted,,for the next issue.
+16,h,1,1,1,1,The writer is told,what,,accepted,,for the next issue.
+17,a,0,0,0,0,The mother loves,that,the child,builds,the tower,with colorful blocks.
+17,b,0,1,1,0,The mother loves,that,,builds,the tower,with colorful blocks.
+17,c,0,1,0,1,The mother loves,that,the child,builds,,with colorful blocks.
+17,d,0,1,1,1,The mother loves,that,,builds,,with colorful blocks.
+17,e,1,0,0,0,The mother loves,what,the child,builds,the tower,with colorful blocks.
+17,f,1,1,1,0,The mother loves,what,,builds,the tower,with colorful blocks.
+17,g,1,1,0,1,The mother loves,what,the child,builds,,with colorful blocks.
+17,h,1,1,1,1,The mother loves,what,,builds,,with colorful blocks.
+18,a,0,0,0,0,The children loved,that,the magician,revealed,the trick,at the end of the show.
+18,b,0,1,1,0,The children loved,that,,revealed,the trick,at the end of the show.
+18,c,0,1,0,1,The children loved,that,the magician,revealed,,at the end of the show.
+18,d,0,1,1,1,The children loved,that,,revealed,,at the end of the show.
+18,e,1,0,0,0,The children loved,what,the magician,revealed,the trick,at the end of the show.
+18,f,1,1,1,0,The children loved,what,,revealed,the trick,at the end of the show.
+18,g,1,1,0,1,The children loved,what,the magician,revealed,,at the end of the show.
+18,h,1,1,1,1,The children loved,what,,revealed,,at the end of the show.
+19,a,0,0,0,0,The detective suspects,that,the man,followed,the victim,to the station.
+19,b,0,1,1,0,The detective suspects,that,,followed,the victim,to the station.
+19,c,0,1,0,1,The detective suspects,that,the man,followed,,to the station.
+19,d,0,1,1,1,The detective suspects,that,,followed,,to the station.
+19,e,1,0,0,0,The detective suspects,what,the man,followed,the victim,to the station.
+19,f,1,1,1,0,The detective suspects,what,,followed,the victim,to the station.
+19,g,1,1,0,1,The detective suspects,what,the man,followed,,to the station.
+19,h,1,1,1,1,The detective suspects,what,,followed,,to the station.
+20,a,0,0,0,0,The principal knows,that,the counselor,helped,the student,after the exam.
+20,b,0,1,1,0,The principal knows,that,,helped,the student,after the exam.
+20,c,0,1,0,1,The principal knows,that,the counselor,helped,,after the exam.
+20,d,0,1,1,1,The principal knows,that,,helped,,after the exam.
+20,e,1,0,0,0,The principal knows,what,the counselor,helped,the student,after the exam.
+20,f,1,1,1,0,The principal knows,what,,helped,the student,after the exam.
+20,g,1,1,0,1,The principal knows,what,the counselor,helped,,after the exam.
+20,h,1,1,1,1,The principal knows,what,,helped,,after the exam.

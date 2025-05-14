@@ -1,0 +1,641 @@
+item_id,condition,filler,gap_distance,gap,DO_gap,IO_gap,gap_position,prefix,licensor,subj,modifier,verb,object,prep,goal,temp_mod
+1,1,0,null,0,0,0,DO,The manager predicts,that,the intern,,forwarded,an important email,to,the client,earlier this morning.
+1,2,0,short,0,0,0,DO,The manager predicts,that,the intern,who you admire,forwarded,an important email,to,the client,earlier this morning.
+1,3,0,medium,0,0,0,DO,The manager predicts,that,the intern,who you worked closely with on the project,forwarded,an important email,to,the client,earlier this morning.
+1,4,0,long,0,0,0,DO,The manager predicts,that,the intern,who you recommended highly after the summer project,forwarded,an important email,to,the client,earlier this morning.
+1,5,0,null,0,0,0,IO,The manager predicts,that,the intern,,forwarded,an important email,to,the client,earlier this morning.
+1,6,0,short,0,0,0,IO,The manager predicts,that,the intern,who you admire,forwarded,an important email,to,the client,earlier this morning.
+1,7,0,medium,0,0,0,IO,The manager predicts,that,the intern,who you worked closely with on the project,forwarded,an important email,to,the client,earlier this morning.
+1,8,0,long,0,0,0,IO,The manager predicts,that,the intern,who you recommended highly after the summer project,forwarded,an important email,to,the client,earlier this morning.
+1,9,0,null,1,1,0,DO,The manager predicts,that,the intern,,forwarded,,to,the client,earlier this morning.
+1,10,0,short,1,1,0,DO,The manager predicts,that,the intern,who you admire,forwarded,,to,the client,earlier this morning.
+1,11,0,medium,1,1,0,DO,The manager predicts,that,the intern,who you worked closely with on the project,forwarded,,to,the client,earlier this morning.
+1,12,0,long,1,1,0,DO,The manager predicts,that,the intern,who you recommended highly after the summer project,forwarded,,to,the client,earlier this morning.
+1,13,0,null,1,0,1,IO,The manager predicts,that,the intern,,forwarded,an important email,to,,earlier this morning.
+1,14,0,short,1,0,1,IO,The manager predicts,that,the intern,who you admire,forwarded,an important email,to,,earlier this morning.
+1,15,0,medium,1,0,1,IO,The manager predicts,that,the intern,who you worked closely with on the project,forwarded,an important email,to,,earlier this morning.
+1,16,0,long,1,0,1,IO,The manager predicts,that,the intern,who you recommended highly after the summer project,forwarded,an important email,to,,earlier this morning.
+1,17,1,null,0,0,0,DO,The manager predicts,what,the intern,,forwarded,an important email,to,the client,earlier this morning.
+1,18,1,short,0,0,0,DO,The manager predicts,what,the intern,who you admire,forwarded,an important email,to,the client,earlier this morning.
+1,19,1,medium,0,0,0,DO,The manager predicts,what,the intern,who you worked closely with on the project,forwarded,an important email,to,the client,earlier this morning.
+1,20,1,long,0,0,0,DO,The manager predicts,what,the intern,who you recommended highly after the summer project,forwarded,an important email,to,the client,earlier this morning.
+1,21,1,null,1,1,0,DO,The manager predicts,what,the intern,,forwarded,,to,the client,earlier this morning.
+1,22,1,short,1,1,0,DO,The manager predicts,what,the intern,who you admire,forwarded,,to,the client,earlier this morning.
+1,23,1,medium,1,1,0,DO,The manager predicts,what,the intern,who you worked closely with on the project,forwarded,,to,the client,earlier this morning.
+1,24,1,long,1,1,0,DO,The manager predicts,what,the intern,who you recommended highly after the summer project,forwarded,,to,the client,earlier this morning.
+1,25,2,null,0,0,0,IO,The manager predicts,who,the intern,,forwarded,an important email,to,the client,earlier this morning.
+1,26,2,short,0,0,0,IO,The manager predicts,who,the intern,who you admire,forwarded,an important email,to,the client,earlier this morning.
+1,27,2,medium,0,0,0,IO,The manager predicts,who,the intern,who you worked closely with on the project,forwarded,an important email,to,the client,earlier this morning.
+1,28,2,long,0,0,0,IO,The manager predicts,who,the intern,who you recommended highly after the summer project,forwarded,an important email,to,the client,earlier this morning.
+1,29,2,null,1,0,1,IO,The manager predicts,who,the intern,,forwarded,an important email,to,,earlier this morning.
+1,30,2,short,1,0,1,IO,The manager predicts,who,the intern,who you admire,forwarded,an important email,to,,earlier this morning.
+1,31,2,medium,1,0,1,IO,The manager predicts,who,the intern,who you worked closely with on the project,forwarded,an important email,to,,earlier this morning.
+1,32,2,long,1,0,1,IO,The manager predicts,who,the intern,who you recommended highly after the summer project,forwarded,an important email,to,,earlier this morning.
+2,1,0,null,0,0,0,DO,The journalist revealed,that,the scientist,,sent,an urgent email,to,the director,this morning.
+2,2,0,short,0,0,0,DO,The journalist revealed,that,the scientist,who you met yesterday,sent,an urgent email,to,the director,this morning.
+2,3,0,medium,0,0,0,DO,The journalist revealed,that,the scientist,who you spoke with briefly at the conference,sent,an urgent email,to,the director,this morning.
+2,4,0,long,0,0,0,DO,The journalist revealed,that,the scientist,who you accidentally bumped into during the science convention downtown,sent,an urgent email,to,the director,this morning.
+2,5,0,null,0,0,0,IO,The journalist revealed,that,the scientist,,sent,an urgent email,to,the director,this morning.
+2,6,0,short,0,0,0,IO,The journalist revealed,that,the scientist,who you met yesterday,sent,an urgent email,to,the director,this morning.
+2,7,0,medium,0,0,0,IO,The journalist revealed,that,the scientist,who you spoke with briefly at the conference,sent,an urgent email,to,the director,this morning.
+2,8,0,long,0,0,0,IO,The journalist revealed,that,the scientist,who you accidentally bumped into during the science convention downtown,sent,an urgent email,to,the director,this morning.
+2,9,0,null,1,1,0,DO,The journalist revealed,that,the scientist,,sent,,to,the director,this morning.
+2,10,0,short,1,1,0,DO,The journalist revealed,that,the scientist,who you met yesterday,sent,,to,the director,this morning.
+2,11,0,medium,1,1,0,DO,The journalist revealed,that,the scientist,who you spoke with briefly at the conference,sent,,to,the director,this morning.
+2,12,0,long,1,1,0,DO,The journalist revealed,that,the scientist,who you accidentally bumped into during the science convention downtown,sent,,to,the director,this morning.
+2,13,0,null,1,0,1,IO,The journalist revealed,that,the scientist,,sent,an urgent email,to,,this morning.
+2,14,0,short,1,0,1,IO,The journalist revealed,that,the scientist,who you met yesterday,sent,an urgent email,to,,this morning.
+2,15,0,medium,1,0,1,IO,The journalist revealed,that,the scientist,who you spoke with briefly at the conference,sent,an urgent email,to,,this morning.
+2,16,0,long,1,0,1,IO,The journalist revealed,that,the scientist,who you accidentally bumped into during the science convention downtown,sent,an urgent email,to,,this morning.
+2,17,1,null,0,0,0,DO,The journalist revealed,what,the scientist,,sent,an urgent email,to,the director,this morning.
+2,18,1,short,0,0,0,DO,The journalist revealed,what,the scientist,who you met yesterday,sent,an urgent email,to,the director,this morning.
+2,19,1,medium,0,0,0,DO,The journalist revealed,what,the scientist,who you spoke with briefly at the conference,sent,an urgent email,to,the director,this morning.
+2,20,1,long,0,0,0,DO,The journalist revealed,what,the scientist,who you accidentally bumped into during the science convention downtown,sent,an urgent email,to,the director,this morning.
+2,21,1,null,1,1,0,DO,The journalist revealed,what,the scientist,,sent,,to,the director,this morning.
+2,22,1,short,1,1,0,DO,The journalist revealed,what,the scientist,who you met yesterday,sent,,to,the director,this morning.
+2,23,1,medium,1,1,0,DO,The journalist revealed,what,the scientist,who you spoke with briefly at the conference,sent,,to,the director,this morning.
+2,24,1,long,1,1,0,DO,The journalist revealed,what,the scientist,who you accidentally bumped into during the science convention downtown,sent,,to,the director,this morning.
+2,25,2,null,0,0,0,IO,The journalist revealed,who,the scientist,,sent,an urgent email,to,the director,this morning.
+2,26,2,short,0,0,0,IO,The journalist revealed,who,the scientist,who you met yesterday,sent,an urgent email,to,the director,this morning.
+2,27,2,medium,0,0,0,IO,The journalist revealed,who,the scientist,who you spoke with briefly at the conference,sent,an urgent email,to,the director,this morning.
+2,28,2,long,0,0,0,IO,The journalist revealed,who,the scientist,who you accidentally bumped into during the science convention downtown,sent,an urgent email,to,the director,this morning.
+2,29,2,null,1,0,1,IO,The journalist revealed,who,the scientist,,sent,an urgent email,to,,this morning.
+2,30,2,short,1,0,1,IO,The journalist revealed,who,the scientist,who you met yesterday,sent,an urgent email,to,,this morning.
+2,31,2,medium,1,0,1,IO,The journalist revealed,who,the scientist,who you spoke with briefly at the conference,sent,an urgent email,to,,this morning.
+2,32,2,long,1,0,1,IO,The journalist revealed,who,the scientist,who you accidentally bumped into during the science convention downtown,sent,an urgent email,to,,this morning.
+3,1,0,null,0,0,0,DO,We discovered,that,the student,,handed,a completed form,to,the registrar,before noon.
+3,2,0,short,0,0,0,DO,We discovered,that,the student,who studies biology,handed,a completed form,to,the registrar,before noon.
+3,3,0,medium,0,0,0,DO,We discovered,that,the student,who submitted their thesis last week,handed,a completed form,to,the registrar,before noon.
+3,4,0,long,0,0,0,DO,We discovered,that,the student,who was preparing for the graduate school entrance exam last semester,handed,a completed form,to,the registrar,before noon.
+3,5,0,null,0,0,0,IO,We discovered,that,the student,,handed,a completed form,to,the registrar,before noon.
+3,6,0,short,0,0,0,IO,We discovered,that,the student,who studies biology,handed,a completed form,to,the registrar,before noon.
+3,7,0,medium,0,0,0,IO,We discovered,that,the student,who submitted their thesis last week,handed,a completed form,to,the registrar,before noon.
+3,8,0,long,0,0,0,IO,We discovered,that,the student,who was preparing for the graduate school entrance exam last semester,handed,a completed form,to,the registrar,before noon.
+3,9,0,null,1,1,0,DO,We discovered,that,the student,,handed,,to,the registrar,before noon.
+3,10,0,short,1,1,0,DO,We discovered,that,the student,who studies biology,handed,,to,the registrar,before noon.
+3,11,0,medium,1,1,0,DO,We discovered,that,the student,who submitted their thesis last week,handed,,to,the registrar,before noon.
+3,12,0,long,1,1,0,DO,We discovered,that,the student,who was preparing for the graduate school entrance exam last semester,handed,,to,the registrar,before noon.
+3,13,0,null,1,0,1,IO,We discovered,that,the student,,handed,a completed form,to,,before noon.
+3,14,0,short,1,0,1,IO,We discovered,that,the student,who studies biology,handed,a completed form,to,,before noon.
+3,15,0,medium,1,0,1,IO,We discovered,that,the student,who submitted their thesis last week,handed,a completed form,to,,before noon.
+3,16,0,long,1,0,1,IO,We discovered,that,the student,who was preparing for the graduate school entrance exam last semester,handed,a completed form,to,,before noon.
+3,17,1,null,0,0,0,DO,We discovered,what,the student,,handed,a completed form,to,the registrar,before noon.
+3,18,1,short,0,0,0,DO,We discovered,what,the student,who studies biology,handed,a completed form,to,the registrar,before noon.
+3,19,1,medium,0,0,0,DO,We discovered,what,the student,who submitted their thesis last week,handed,a completed form,to,the registrar,before noon.
+3,20,1,long,0,0,0,DO,We discovered,what,the student,who was preparing for the graduate school entrance exam last semester,handed,a completed form,to,the registrar,before noon.
+3,21,1,null,1,1,0,DO,We discovered,what,the student,,handed,,to,the registrar,before noon.
+3,22,1,short,1,1,0,DO,We discovered,what,the student,who studies biology,handed,,to,the registrar,before noon.
+3,23,1,medium,1,1,0,DO,We discovered,what,the student,who submitted their thesis last week,handed,,to,the registrar,before noon.
+3,24,1,long,1,1,0,DO,We discovered,what,the student,who was preparing for the graduate school entrance exam last semester,handed,,to,the registrar,before noon.
+3,25,2,null,0,0,0,IO,We discovered,who,the student,,handed,a completed form,to,the registrar,before noon.
+3,26,2,short,0,0,0,IO,We discovered,who,the student,who studies biology,handed,a completed form,to,the registrar,before noon.
+3,27,2,medium,0,0,0,IO,We discovered,who,the student,who submitted their thesis last week,handed,a completed form,to,the registrar,before noon.
+3,28,2,long,0,0,0,IO,We discovered,who,the student,who was preparing for the graduate school entrance exam last semester,handed,a completed form,to,the registrar,before noon.
+3,29,2,null,1,0,1,IO,We discovered,who,the student,,handed,a completed form,to,,before noon.
+3,30,2,short,1,0,1,IO,We discovered,who,the student,who studies biology,handed,a completed form,to,,before noon.
+3,31,2,medium,1,0,1,IO,We discovered,who,the student,who submitted their thesis last week,handed,a completed form,to,,before noon.
+3,32,2,long,1,0,1,IO,We discovered,who,the student,who was preparing for the graduate school entrance exam last semester,handed,a completed form,to,,before noon.
+4,1,0,null,0,0,0,DO,The teacher wondered,that,the librarian,,offered,a rare book,to,the professor,earlier today.
+4,2,0,short,0,0,0,DO,The teacher wondered,that,the librarian,who you emailed yesterday,offered,a rare book,to,the professor,earlier today.
+4,3,0,medium,0,0,0,DO,The teacher wondered,that,the librarian,who organized the book sale last month,offered,a rare book,to,the professor,earlier today.
+4,4,0,long,0,0,0,DO,The teacher wondered,that,the librarian,who collaborated with several departments for the new library project this year,offered,a rare book,to,the professor,earlier today.
+4,5,0,null,0,0,0,IO,The teacher wondered,that,the librarian,,offered,a rare book,to,the professor,earlier today.
+4,6,0,short,0,0,0,IO,The teacher wondered,that,the librarian,who you emailed yesterday,offered,a rare book,to,the professor,earlier today.
+4,7,0,medium,0,0,0,IO,The teacher wondered,that,the librarian,who organized the book sale last month,offered,a rare book,to,the professor,earlier today.
+4,8,0,long,0,0,0,IO,The teacher wondered,that,the librarian,who collaborated with several departments for the new library project this year,offered,a rare book,to,the professor,earlier today.
+4,9,0,null,1,1,0,DO,The teacher wondered,that,the librarian,,offered,,to,the professor,earlier today.
+4,10,0,short,1,1,0,DO,The teacher wondered,that,the librarian,who you emailed yesterday,offered,,to,the professor,earlier today.
+4,11,0,medium,1,1,0,DO,The teacher wondered,that,the librarian,who organized the book sale last month,offered,,to,the professor,earlier today.
+4,12,0,long,1,1,0,DO,The teacher wondered,that,the librarian,who collaborated with several departments for the new library project this year,offered,,to,the professor,earlier today.
+4,13,0,null,1,0,1,IO,The teacher wondered,that,the librarian,,offered,a rare book,to,,earlier today.
+4,14,0,short,1,0,1,IO,The teacher wondered,that,the librarian,who you emailed yesterday,offered,a rare book,to,,earlier today.
+4,15,0,medium,1,0,1,IO,The teacher wondered,that,the librarian,who organized the book sale last month,offered,a rare book,to,,earlier today.
+4,16,0,long,1,0,1,IO,The teacher wondered,that,the librarian,who collaborated with several departments for the new library project this year,offered,a rare book,to,,earlier today.
+4,17,1,null,0,0,0,DO,The teacher wondered,what,the librarian,,offered,a rare book,to,the professor,earlier today.
+4,18,1,short,0,0,0,DO,The teacher wondered,what,the librarian,who you emailed yesterday,offered,a rare book,to,the professor,earlier today.
+4,19,1,medium,0,0,0,DO,The teacher wondered,what,the librarian,who organized the book sale last month,offered,a rare book,to,the professor,earlier today.
+4,20,1,long,0,0,0,DO,The teacher wondered,what,the librarian,who collaborated with several departments for the new library project this year,offered,a rare book,to,the professor,earlier today.
+4,21,1,null,1,1,0,DO,The teacher wondered,what,the librarian,,offered,,to,the professor,earlier today.
+4,22,1,short,1,1,0,DO,The teacher wondered,what,the librarian,who you emailed yesterday,offered,,to,the professor,earlier today.
+4,23,1,medium,1,1,0,DO,The teacher wondered,what,the librarian,who organized the book sale last month,offered,,to,the professor,earlier today.
+4,24,1,long,1,1,0,DO,The teacher wondered,what,the librarian,who collaborated with several departments for the new library project this year,offered,,to,the professor,earlier today.
+4,25,2,null,0,0,0,IO,The teacher wondered,who,the librarian,,offered,a rare book,to,the professor,earlier today.
+4,26,2,short,0,0,0,IO,The teacher wondered,who,the librarian,who you emailed yesterday,offered,a rare book,to,the professor,earlier today.
+4,27,2,medium,0,0,0,IO,The teacher wondered,who,the librarian,who organized the book sale last month,offered,a rare book,to,the professor,earlier today.
+4,28,2,long,0,0,0,IO,The teacher wondered,who,the librarian,who collaborated with several departments for the new library project this year,offered,a rare book,to,the professor,earlier today.
+4,29,2,null,1,0,1,IO,The teacher wondered,who,the librarian,,offered,a rare book,to,,earlier today.
+4,30,2,short,1,0,1,IO,The teacher wondered,who,the librarian,who you emailed yesterday,offered,a rare book,to,,earlier today.
+4,31,2,medium,1,0,1,IO,The teacher wondered,who,the librarian,who organized the book sale last month,offered,a rare book,to,,earlier today.
+4,32,2,long,1,0,1,IO,The teacher wondered,who,the librarian,who collaborated with several departments for the new library project this year,offered,a rare book,to,,earlier today.
+5,1,0,null,0,0,0,DO,They found out,that,the baker,,gave,a free loaf,to,the customer,this morning.
+5,2,0,short,0,0,0,DO,They found out,that,the baker,who lives nearby,gave,a free loaf,to,the customer,this morning.
+5,3,0,medium,0,0,0,DO,They found out,that,the baker,who visits the bakery every Sunday,gave,a free loaf,to,the customer,this morning.
+5,4,0,long,0,0,0,DO,They found out,that,the baker,who always buys three different kinds of bread every weekend morning,gave,a free loaf,to,the customer,this morning.
+5,5,0,null,0,0,0,IO,They found out,that,the baker,,gave,a free loaf,to,the customer,this morning.
+5,6,0,short,0,0,0,IO,They found out,that,the baker,who lives nearby,gave,a free loaf,to,the customer,this morning.
+5,7,0,medium,0,0,0,IO,They found out,that,the baker,who visits the bakery every Sunday,gave,a free loaf,to,the customer,this morning.
+5,8,0,long,0,0,0,IO,They found out,that,the baker,who always buys three different kinds of bread every weekend morning,gave,a free loaf,to,the customer,this morning.
+5,9,0,null,1,1,0,DO,They found out,that,the baker,,gave,,to,the customer,this morning.
+5,10,0,short,1,1,0,DO,They found out,that,the baker,who lives nearby,gave,,to,the customer,this morning.
+5,11,0,medium,1,1,0,DO,They found out,that,the baker,who visits the bakery every Sunday,gave,,to,the customer,this morning.
+5,12,0,long,1,1,0,DO,They found out,that,the baker,who always buys three different kinds of bread every weekend morning,gave,,to,the customer,this morning.
+5,13,0,null,1,0,1,IO,They found out,that,the baker,,gave,a free loaf,to,,this morning.
+5,14,0,short,1,0,1,IO,They found out,that,the baker,who lives nearby,gave,a free loaf,to,,this morning.
+5,15,0,medium,1,0,1,IO,They found out,that,the baker,who visits the bakery every Sunday,gave,a free loaf,to,,this morning.
+5,16,0,long,1,0,1,IO,They found out,that,the baker,who always buys three different kinds of bread every weekend morning,gave,a free loaf,to,,this morning.
+5,17,1,null,0,0,0,DO,They found out,what,the baker,,gave,a free loaf,to,the customer,this morning.
+5,18,1,short,0,0,0,DO,They found out,what,the baker,who lives nearby,gave,a free loaf,to,the customer,this morning.
+5,19,1,medium,0,0,0,DO,They found out,what,the baker,who visits the bakery every Sunday,gave,a free loaf,to,the customer,this morning.
+5,20,1,long,0,0,0,DO,They found out,what,the baker,who always buys three different kinds of bread every weekend morning,gave,a free loaf,to,the customer,this morning.
+5,21,1,null,1,1,0,DO,They found out,what,the baker,,gave,,to,the customer,this morning.
+5,22,1,short,1,1,0,DO,They found out,what,the baker,who lives nearby,gave,,to,the customer,this morning.
+5,23,1,medium,1,1,0,DO,They found out,what,the baker,who visits the bakery every Sunday,gave,,to,the customer,this morning.
+5,24,1,long,1,1,0,DO,They found out,what,the baker,who always buys three different kinds of bread every weekend morning,gave,,to,the customer,this morning.
+5,25,2,null,0,0,0,IO,They found out,who,the baker,,gave,a free loaf,to,the customer,this morning.
+5,26,2,short,0,0,0,IO,They found out,who,the baker,who lives nearby,gave,a free loaf,to,the customer,this morning.
+5,27,2,medium,0,0,0,IO,They found out,who,the baker,who visits the bakery every Sunday,gave,a free loaf,to,the customer,this morning.
+5,28,2,long,0,0,0,IO,They found out,who,the baker,who always buys three different kinds of bread every weekend morning,gave,a free loaf,to,the customer,this morning.
+5,29,2,null,1,0,1,IO,They found out,who,the baker,,gave,a free loaf,to,,this morning.
+5,30,2,short,1,0,1,IO,They found out,who,the baker,who lives nearby,gave,a free loaf,to,,this morning.
+5,31,2,medium,1,0,1,IO,They found out,who,the baker,who visits the bakery every Sunday,gave,a free loaf,to,,this morning.
+5,32,2,long,1,0,1,IO,They found out,who,the baker,who always buys three different kinds of bread every weekend morning,gave,a free loaf,to,,this morning.
+6,1,0,null,0,0,0,DO,The analyst predicted,that,the manager,,allocated,additional funds,to,the research team,last quarter.
+6,2,0,short,0,0,0,DO,The analyst predicted,that,the manager,who you interviewed,allocated,additional funds,to,the research team,last quarter.
+6,3,0,medium,0,0,0,DO,The analyst predicted,that,the manager,who managed the budget revisions last year,allocated,additional funds,to,the research team,last quarter.
+6,4,0,long,0,0,0,DO,The analyst predicted,that,the manager,who was responsible for overseeing multiple department finances over the fiscal year,allocated,additional funds,to,the research team,last quarter.
+6,5,0,null,0,0,0,IO,The analyst predicted,that,the manager,,allocated,additional funds,to,the research team,last quarter.
+6,6,0,short,0,0,0,IO,The analyst predicted,that,the manager,who you interviewed,allocated,additional funds,to,the research team,last quarter.
+6,7,0,medium,0,0,0,IO,The analyst predicted,that,the manager,who managed the budget revisions last year,allocated,additional funds,to,the research team,last quarter.
+6,8,0,long,0,0,0,IO,The analyst predicted,that,the manager,who was responsible for overseeing multiple department finances over the fiscal year,allocated,additional funds,to,the research team,last quarter.
+6,9,0,null,1,1,0,DO,The analyst predicted,that,the manager,,allocated,,to,the research team,last quarter.
+6,10,0,short,1,1,0,DO,The analyst predicted,that,the manager,who you interviewed,allocated,,to,the research team,last quarter.
+6,11,0,medium,1,1,0,DO,The analyst predicted,that,the manager,who managed the budget revisions last year,allocated,,to,the research team,last quarter.
+6,12,0,long,1,1,0,DO,The analyst predicted,that,the manager,who was responsible for overseeing multiple department finances over the fiscal year,allocated,,to,the research team,last quarter.
+6,13,0,null,1,0,1,IO,The analyst predicted,that,the manager,,allocated,additional funds,to,,last quarter.
+6,14,0,short,1,0,1,IO,The analyst predicted,that,the manager,who you interviewed,allocated,additional funds,to,,last quarter.
+6,15,0,medium,1,0,1,IO,The analyst predicted,that,the manager,who managed the budget revisions last year,allocated,additional funds,to,,last quarter.
+6,16,0,long,1,0,1,IO,The analyst predicted,that,the manager,who was responsible for overseeing multiple department finances over the fiscal year,allocated,additional funds,to,,last quarter.
+6,17,1,null,0,0,0,DO,The analyst predicted,what,the manager,,allocated,additional funds,to,the research team,last quarter.
+6,18,1,short,0,0,0,DO,The analyst predicted,what,the manager,who you interviewed,allocated,additional funds,to,the research team,last quarter.
+6,19,1,medium,0,0,0,DO,The analyst predicted,what,the manager,who managed the budget revisions last year,allocated,additional funds,to,the research team,last quarter.
+6,20,1,long,0,0,0,DO,The analyst predicted,what,the manager,who was responsible for overseeing multiple department finances over the fiscal year,allocated,additional funds,to,the research team,last quarter.
+6,21,1,null,1,1,0,DO,The analyst predicted,what,the manager,,allocated,,to,the research team,last quarter.
+6,22,1,short,1,1,0,DO,The analyst predicted,what,the manager,who you interviewed,allocated,,to,the research team,last quarter.
+6,23,1,medium,1,1,0,DO,The analyst predicted,what,the manager,who managed the budget revisions last year,allocated,,to,the research team,last quarter.
+6,24,1,long,1,1,0,DO,The analyst predicted,what,the manager,who was responsible for overseeing multiple department finances over the fiscal year,allocated,,to,the research team,last quarter.
+6,25,2,null,0,0,0,IO,The analyst predicted,who,the manager,,allocated,additional funds,to,the research team,last quarter.
+6,26,2,short,0,0,0,IO,The analyst predicted,who,the manager,who you interviewed,allocated,additional funds,to,the research team,last quarter.
+6,27,2,medium,0,0,0,IO,The analyst predicted,who,the manager,who managed the budget revisions last year,allocated,additional funds,to,the research team,last quarter.
+6,28,2,long,0,0,0,IO,The analyst predicted,who,the manager,who was responsible for overseeing multiple department finances over the fiscal year,allocated,additional funds,to,the research team,last quarter.
+6,29,2,null,1,0,1,IO,The analyst predicted,who,the manager,,allocated,additional funds,to,,last quarter.
+6,30,2,short,1,0,1,IO,The analyst predicted,who,the manager,who you interviewed,allocated,additional funds,to,,last quarter.
+6,31,2,medium,1,0,1,IO,The analyst predicted,who,the manager,who managed the budget revisions last year,allocated,additional funds,to,,last quarter.
+6,32,2,long,1,0,1,IO,The analyst predicted,who,the manager,who was responsible for overseeing multiple department finances over the fiscal year,allocated,additional funds,to,,last quarter.
+7,1,0,null,0,0,0,DO,The musician revealed,that,the producer,,sent,the new album,to,the record label,last Friday.
+7,2,0,short,0,0,0,DO,The musician revealed,that,the producer,who you met backstage,sent,the new album,to,the record label,last Friday.
+7,3,0,medium,0,0,0,DO,The musician revealed,that,the producer,who worked with several Grammy-winning artists recently,sent,the new album,to,the record label,last Friday.
+7,4,0,long,0,0,0,DO,The musician revealed,that,the producer,who negotiated multiple high-profile contracts during the summer music festival season,sent,the new album,to,the record label,last Friday.
+7,5,0,null,0,0,0,IO,The musician revealed,that,the producer,,sent,the new album,to,the record label,last Friday.
+7,6,0,short,0,0,0,IO,The musician revealed,that,the producer,who you met backstage,sent,the new album,to,the record label,last Friday.
+7,7,0,medium,0,0,0,IO,The musician revealed,that,the producer,who worked with several Grammy-winning artists recently,sent,the new album,to,the record label,last Friday.
+7,8,0,long,0,0,0,IO,The musician revealed,that,the producer,who negotiated multiple high-profile contracts during the summer music festival season,sent,the new album,to,the record label,last Friday.
+7,9,0,null,1,1,0,DO,The musician revealed,that,the producer,,sent,,to,the record label,last Friday.
+7,10,0,short,1,1,0,DO,The musician revealed,that,the producer,who you met backstage,sent,,to,the record label,last Friday.
+7,11,0,medium,1,1,0,DO,The musician revealed,that,the producer,who worked with several Grammy-winning artists recently,sent,,to,the record label,last Friday.
+7,12,0,long,1,1,0,DO,The musician revealed,that,the producer,who negotiated multiple high-profile contracts during the summer music festival season,sent,,to,the record label,last Friday.
+7,13,0,null,1,0,1,IO,The musician revealed,that,the producer,,sent,the new album,to,,last Friday.
+7,14,0,short,1,0,1,IO,The musician revealed,that,the producer,who you met backstage,sent,the new album,to,,last Friday.
+7,15,0,medium,1,0,1,IO,The musician revealed,that,the producer,who worked with several Grammy-winning artists recently,sent,the new album,to,,last Friday.
+7,16,0,long,1,0,1,IO,The musician revealed,that,the producer,who negotiated multiple high-profile contracts during the summer music festival season,sent,the new album,to,,last Friday.
+7,17,1,null,0,0,0,DO,The musician revealed,what,the producer,,sent,the new album,to,the record label,last Friday.
+7,18,1,short,0,0,0,DO,The musician revealed,what,the producer,who you met backstage,sent,the new album,to,the record label,last Friday.
+7,19,1,medium,0,0,0,DO,The musician revealed,what,the producer,who worked with several Grammy-winning artists recently,sent,the new album,to,the record label,last Friday.
+7,20,1,long,0,0,0,DO,The musician revealed,what,the producer,who negotiated multiple high-profile contracts during the summer music festival season,sent,the new album,to,the record label,last Friday.
+7,21,1,null,1,1,0,DO,The musician revealed,what,the producer,,sent,,to,the record label,last Friday.
+7,22,1,short,1,1,0,DO,The musician revealed,what,the producer,who you met backstage,sent,,to,the record label,last Friday.
+7,23,1,medium,1,1,0,DO,The musician revealed,what,the producer,who worked with several Grammy-winning artists recently,sent,,to,the record label,last Friday.
+7,24,1,long,1,1,0,DO,The musician revealed,what,the producer,who negotiated multiple high-profile contracts during the summer music festival season,sent,,to,the record label,last Friday.
+7,25,2,null,0,0,0,IO,The musician revealed,who,the producer,,sent,the new album,to,the record label,last Friday.
+7,26,2,short,0,0,0,IO,The musician revealed,who,the producer,who you met backstage,sent,the new album,to,the record label,last Friday.
+7,27,2,medium,0,0,0,IO,The musician revealed,who,the producer,who worked with several Grammy-winning artists recently,sent,the new album,to,the record label,last Friday.
+7,28,2,long,0,0,0,IO,The musician revealed,who,the producer,who negotiated multiple high-profile contracts during the summer music festival season,sent,the new album,to,the record label,last Friday.
+7,29,2,null,1,0,1,IO,The musician revealed,who,the producer,,sent,the new album,to,,last Friday.
+7,30,2,short,1,0,1,IO,The musician revealed,who,the producer,who you met backstage,sent,the new album,to,,last Friday.
+7,31,2,medium,1,0,1,IO,The musician revealed,who,the producer,who worked with several Grammy-winning artists recently,sent,the new album,to,,last Friday.
+7,32,2,long,1,0,1,IO,The musician revealed,who,the producer,who negotiated multiple high-profile contracts during the summer music festival season,sent,the new album,to,,last Friday.
+8,1,0,null,0,0,0,DO,We guessed,that,the guide,,showed,a secret passage,to,the tourists,during the afternoon tour.
+8,2,0,short,0,0,0,DO,We guessed,that,the guide,who led yesterday's tour,showed,a secret passage,to,the tourists,during the afternoon tour.
+8,3,0,medium,0,0,0,DO,We guessed,that,the guide,who explained the history of the castle ruins,showed,a secret passage,to,the tourists,during the afternoon tour.
+8,4,0,long,0,0,0,DO,We guessed,that,the guide,who memorized every detail about the centuries-old underground tunnels discovered last year,showed,a secret passage,to,the tourists,during the afternoon tour.
+8,5,0,null,0,0,0,IO,We guessed,that,the guide,,showed,a secret passage,to,the tourists,during the afternoon tour.
+8,6,0,short,0,0,0,IO,We guessed,that,the guide,who led yesterday's tour,showed,a secret passage,to,the tourists,during the afternoon tour.
+8,7,0,medium,0,0,0,IO,We guessed,that,the guide,who explained the history of the castle ruins,showed,a secret passage,to,the tourists,during the afternoon tour.
+8,8,0,long,0,0,0,IO,We guessed,that,the guide,who memorized every detail about the centuries-old underground tunnels discovered last year,showed,a secret passage,to,the tourists,during the afternoon tour.
+8,9,0,null,1,1,0,DO,We guessed,that,the guide,,showed,,to,the tourists,during the afternoon tour.
+8,10,0,short,1,1,0,DO,We guessed,that,the guide,who led yesterday's tour,showed,,to,the tourists,during the afternoon tour.
+8,11,0,medium,1,1,0,DO,We guessed,that,the guide,who explained the history of the castle ruins,showed,,to,the tourists,during the afternoon tour.
+8,12,0,long,1,1,0,DO,We guessed,that,the guide,who memorized every detail about the centuries-old underground tunnels discovered last year,showed,,to,the tourists,during the afternoon tour.
+8,13,0,null,1,0,1,IO,We guessed,that,the guide,,showed,a secret passage,to,,during the afternoon tour.
+8,14,0,short,1,0,1,IO,We guessed,that,the guide,who led yesterday's tour,showed,a secret passage,to,,during the afternoon tour.
+8,15,0,medium,1,0,1,IO,We guessed,that,the guide,who explained the history of the castle ruins,showed,a secret passage,to,,during the afternoon tour.
+8,16,0,long,1,0,1,IO,We guessed,that,the guide,who memorized every detail about the centuries-old underground tunnels discovered last year,showed,a secret passage,to,,during the afternoon tour.
+8,17,1,null,0,0,0,DO,We guessed,what,the guide,,showed,a secret passage,to,the tourists,during the afternoon tour.
+8,18,1,short,0,0,0,DO,We guessed,what,the guide,who led yesterday's tour,showed,a secret passage,to,the tourists,during the afternoon tour.
+8,19,1,medium,0,0,0,DO,We guessed,what,the guide,who explained the history of the castle ruins,showed,a secret passage,to,the tourists,during the afternoon tour.
+8,20,1,long,0,0,0,DO,We guessed,what,the guide,who memorized every detail about the centuries-old underground tunnels discovered last year,showed,a secret passage,to,the tourists,during the afternoon tour.
+8,21,1,null,1,1,0,DO,We guessed,what,the guide,,showed,,to,the tourists,during the afternoon tour.
+8,22,1,short,1,1,0,DO,We guessed,what,the guide,who led yesterday's tour,showed,,to,the tourists,during the afternoon tour.
+8,23,1,medium,1,1,0,DO,We guessed,what,the guide,who explained the history of the castle ruins,showed,,to,the tourists,during the afternoon tour.
+8,24,1,long,1,1,0,DO,We guessed,what,the guide,who memorized every detail about the centuries-old underground tunnels discovered last year,showed,,to,the tourists,during the afternoon tour.
+8,25,2,null,0,0,0,IO,We guessed,who,the guide,,showed,a secret passage,to,the tourists,during the afternoon tour.
+8,26,2,short,0,0,0,IO,We guessed,who,the guide,who led yesterday's tour,showed,a secret passage,to,the tourists,during the afternoon tour.
+8,27,2,medium,0,0,0,IO,We guessed,who,the guide,who explained the history of the castle ruins,showed,a secret passage,to,the tourists,during the afternoon tour.
+8,28,2,long,0,0,0,IO,We guessed,who,the guide,who memorized every detail about the centuries-old underground tunnels discovered last year,showed,a secret passage,to,the tourists,during the afternoon tour.
+8,29,2,null,1,0,1,IO,We guessed,who,the guide,,showed,a secret passage,to,,during the afternoon tour.
+8,30,2,short,1,0,1,IO,We guessed,who,the guide,who led yesterday's tour,showed,a secret passage,to,,during the afternoon tour.
+8,31,2,medium,1,0,1,IO,We guessed,who,the guide,who explained the history of the castle ruins,showed,a secret passage,to,,during the afternoon tour.
+8,32,2,long,1,0,1,IO,We guessed,who,the guide,who memorized every detail about the centuries-old underground tunnels discovered last year,showed,a secret passage,to,,during the afternoon tour.
+9,1,0,null,0,0,0,DO,The professor found out,that,the assistant,,delivered,the exam papers,to,the department office,this morning.
+9,2,0,short,0,0,0,DO,The professor found out,that,the assistant,who you trained recently,delivered,the exam papers,to,the department office,this morning.
+9,3,0,medium,0,0,0,DO,The professor found out,that,the assistant,who helped organize the graduate seminar last semester,delivered,the exam papers,to,the department office,this morning.
+9,4,0,long,0,0,0,DO,The professor found out,that,the assistant,who organized workshops and conferences for incoming PhD students last year,delivered,the exam papers,to,the department office,this morning.
+9,5,0,null,0,0,0,IO,The professor found out,that,the assistant,,delivered,the exam papers,to,the department office,this morning.
+9,6,0,short,0,0,0,IO,The professor found out,that,the assistant,who you trained recently,delivered,the exam papers,to,the department office,this morning.
+9,7,0,medium,0,0,0,IO,The professor found out,that,the assistant,who helped organize the graduate seminar last semester,delivered,the exam papers,to,the department office,this morning.
+9,8,0,long,0,0,0,IO,The professor found out,that,the assistant,who organized workshops and conferences for incoming PhD students last year,delivered,the exam papers,to,the department office,this morning.
+9,9,0,null,1,1,0,DO,The professor found out,that,the assistant,,delivered,,to,the department office,this morning.
+9,10,0,short,1,1,0,DO,The professor found out,that,the assistant,who you trained recently,delivered,,to,the department office,this morning.
+9,11,0,medium,1,1,0,DO,The professor found out,that,the assistant,who helped organize the graduate seminar last semester,delivered,,to,the department office,this morning.
+9,12,0,long,1,1,0,DO,The professor found out,that,the assistant,who organized workshops and conferences for incoming PhD students last year,delivered,,to,the department office,this morning.
+9,13,0,null,1,0,1,IO,The professor found out,that,the assistant,,delivered,the exam papers,to,,this morning.
+9,14,0,short,1,0,1,IO,The professor found out,that,the assistant,who you trained recently,delivered,the exam papers,to,,this morning.
+9,15,0,medium,1,0,1,IO,The professor found out,that,the assistant,who helped organize the graduate seminar last semester,delivered,the exam papers,to,,this morning.
+9,16,0,long,1,0,1,IO,The professor found out,that,the assistant,who organized workshops and conferences for incoming PhD students last year,delivered,the exam papers,to,,this morning.
+9,17,1,null,0,0,0,DO,The professor found out,what,the assistant,,delivered,the exam papers,to,the department office,this morning.
+9,18,1,short,0,0,0,DO,The professor found out,what,the assistant,who you trained recently,delivered,the exam papers,to,the department office,this morning.
+9,19,1,medium,0,0,0,DO,The professor found out,what,the assistant,who helped organize the graduate seminar last semester,delivered,the exam papers,to,the department office,this morning.
+9,20,1,long,0,0,0,DO,The professor found out,what,the assistant,who organized workshops and conferences for incoming PhD students last year,delivered,the exam papers,to,the department office,this morning.
+9,21,1,null,1,1,0,DO,The professor found out,what,the assistant,,delivered,,to,the department office,this morning.
+9,22,1,short,1,1,0,DO,The professor found out,what,the assistant,who you trained recently,delivered,,to,the department office,this morning.
+9,23,1,medium,1,1,0,DO,The professor found out,what,the assistant,who helped organize the graduate seminar last semester,delivered,,to,the department office,this morning.
+9,24,1,long,1,1,0,DO,The professor found out,what,the assistant,who organized workshops and conferences for incoming PhD students last year,delivered,,to,the department office,this morning.
+9,25,2,null,0,0,0,IO,The professor found out,who,the assistant,,delivered,the exam papers,to,the department office,this morning.
+9,26,2,short,0,0,0,IO,The professor found out,who,the assistant,who you trained recently,delivered,the exam papers,to,the department office,this morning.
+9,27,2,medium,0,0,0,IO,The professor found out,who,the assistant,who helped organize the graduate seminar last semester,delivered,the exam papers,to,the department office,this morning.
+9,28,2,long,0,0,0,IO,The professor found out,who,the assistant,who organized workshops and conferences for incoming PhD students last year,delivered,the exam papers,to,the department office,this morning.
+9,29,2,null,1,0,1,IO,The professor found out,who,the assistant,,delivered,the exam papers,to,,this morning.
+9,30,2,short,1,0,1,IO,The professor found out,who,the assistant,who you trained recently,delivered,the exam papers,to,,this morning.
+9,31,2,medium,1,0,1,IO,The professor found out,who,the assistant,who helped organize the graduate seminar last semester,delivered,the exam papers,to,,this morning.
+9,32,2,long,1,0,1,IO,The professor found out,who,the assistant,who organized workshops and conferences for incoming PhD students last year,delivered,the exam papers,to,,this morning.
+10,1,0,null,0,0,0,DO,I discovered,that,the intern,,handed,a business card,to,the CEO,at the conference yesterday.
+10,2,0,short,0,0,0,DO,I discovered,that,the intern,who assisted with registration,handed,a business card,to,the CEO,at the conference yesterday.
+10,3,0,medium,0,0,0,DO,I discovered,that,the intern,who attended both morning keynote speeches,handed,a business card,to,the CEO,at the conference yesterday.
+10,4,0,long,0,0,0,DO,I discovered,that,the intern,who managed to network with several startup founders during the weekend event,handed,a business card,to,the CEO,at the conference yesterday.
+10,5,0,null,0,0,0,IO,I discovered,that,the intern,,handed,a business card,to,the CEO,at the conference yesterday.
+10,6,0,short,0,0,0,IO,I discovered,that,the intern,who assisted with registration,handed,a business card,to,the CEO,at the conference yesterday.
+10,7,0,medium,0,0,0,IO,I discovered,that,the intern,who attended both morning keynote speeches,handed,a business card,to,the CEO,at the conference yesterday.
+10,8,0,long,0,0,0,IO,I discovered,that,the intern,who managed to network with several startup founders during the weekend event,handed,a business card,to,the CEO,at the conference yesterday.
+10,9,0,null,1,1,0,DO,I discovered,that,the intern,,handed,,to,the CEO,at the conference yesterday.
+10,10,0,short,1,1,0,DO,I discovered,that,the intern,who assisted with registration,handed,,to,the CEO,at the conference yesterday.
+10,11,0,medium,1,1,0,DO,I discovered,that,the intern,who attended both morning keynote speeches,handed,,to,the CEO,at the conference yesterday.
+10,12,0,long,1,1,0,DO,I discovered,that,the intern,who managed to network with several startup founders during the weekend event,handed,,to,the CEO,at the conference yesterday.
+10,13,0,null,1,0,1,IO,I discovered,that,the intern,,handed,a business card,to,,at the conference yesterday.
+10,14,0,short,1,0,1,IO,I discovered,that,the intern,who assisted with registration,handed,a business card,to,,at the conference yesterday.
+10,15,0,medium,1,0,1,IO,I discovered,that,the intern,who attended both morning keynote speeches,handed,a business card,to,,at the conference yesterday.
+10,16,0,long,1,0,1,IO,I discovered,that,the intern,who managed to network with several startup founders during the weekend event,handed,a business card,to,,at the conference yesterday.
+10,17,1,null,0,0,0,DO,I discovered,what,the intern,,handed,a business card,to,the CEO,at the conference yesterday.
+10,18,1,short,0,0,0,DO,I discovered,what,the intern,who assisted with registration,handed,a business card,to,the CEO,at the conference yesterday.
+10,19,1,medium,0,0,0,DO,I discovered,what,the intern,who attended both morning keynote speeches,handed,a business card,to,the CEO,at the conference yesterday.
+10,20,1,long,0,0,0,DO,I discovered,what,the intern,who managed to network with several startup founders during the weekend event,handed,a business card,to,the CEO,at the conference yesterday.
+10,21,1,null,1,1,0,DO,I discovered,what,the intern,,handed,,to,the CEO,at the conference yesterday.
+10,22,1,short,1,1,0,DO,I discovered,what,the intern,who assisted with registration,handed,,to,the CEO,at the conference yesterday.
+10,23,1,medium,1,1,0,DO,I discovered,what,the intern,who attended both morning keynote speeches,handed,,to,the CEO,at the conference yesterday.
+10,24,1,long,1,1,0,DO,I discovered,what,the intern,who managed to network with several startup founders during the weekend event,handed,,to,the CEO,at the conference yesterday.
+10,25,2,null,0,0,0,IO,I discovered,who,the intern,,handed,a business card,to,the CEO,at the conference yesterday.
+10,26,2,short,0,0,0,IO,I discovered,who,the intern,who assisted with registration,handed,a business card,to,the CEO,at the conference yesterday.
+10,27,2,medium,0,0,0,IO,I discovered,who,the intern,who attended both morning keynote speeches,handed,a business card,to,the CEO,at the conference yesterday.
+10,28,2,long,0,0,0,IO,I discovered,who,the intern,who managed to network with several startup founders during the weekend event,handed,a business card,to,the CEO,at the conference yesterday.
+10,29,2,null,1,0,1,IO,I discovered,who,the intern,,handed,a business card,to,,at the conference yesterday.
+10,30,2,short,1,0,1,IO,I discovered,who,the intern,who assisted with registration,handed,a business card,to,,at the conference yesterday.
+10,31,2,medium,1,0,1,IO,I discovered,who,the intern,who attended both morning keynote speeches,handed,a business card,to,,at the conference yesterday.
+10,32,2,long,1,0,1,IO,I discovered,who,the intern,who managed to network with several startup founders during the weekend event,handed,a business card,to,,at the conference yesterday.
+11,1,0,null,0,0,0,DO,The professor was informed,that,the assistant,,handed,a completed assignment,to,the supervisor,yesterday afternoon.
+11,2,0,short,0,0,0,DO,The professor was informed,that,the assistant,who arrived early,handed,a completed assignment,to,the supervisor,yesterday afternoon.
+11,3,0,medium,0,0,0,DO,The professor was informed,that,the assistant,who worked late every night last week,handed,a completed assignment,to,the supervisor,yesterday afternoon.
+11,4,0,long,0,0,0,DO,The professor was informed,that,the assistant,who collaborated with a senior researcher on an academic publishing project,handed,a completed assignment,to,the supervisor,yesterday afternoon.
+11,5,0,null,0,0,0,IO,The professor was informed,that,the assistant,,handed,a completed assignment,to,the supervisor,yesterday afternoon.
+11,6,0,short,0,0,0,IO,The professor was informed,that,the assistant,who arrived early,handed,a completed assignment,to,the supervisor,yesterday afternoon.
+11,7,0,medium,0,0,0,IO,The professor was informed,that,the assistant,who worked late every night last week,handed,a completed assignment,to,the supervisor,yesterday afternoon.
+11,8,0,long,0,0,0,IO,The professor was informed,that,the assistant,who collaborated with a senior researcher on an academic publishing project,handed,a completed assignment,to,the supervisor,yesterday afternoon.
+11,9,0,null,1,1,0,DO,The professor was informed,that,the assistant,,handed,,to,the supervisor,yesterday afternoon.
+11,10,0,short,1,1,0,DO,The professor was informed,that,the assistant,who arrived early,handed,,to,the supervisor,yesterday afternoon.
+11,11,0,medium,1,1,0,DO,The professor was informed,that,the assistant,who worked late every night last week,handed,,to,the supervisor,yesterday afternoon.
+11,12,0,long,1,1,0,DO,The professor was informed,that,the assistant,who collaborated with a senior researcher on an academic publishing project,handed,,to,the supervisor,yesterday afternoon.
+11,13,0,null,1,0,1,IO,The professor was informed,that,the assistant,,handed,a completed assignment,to,,yesterday afternoon.
+11,14,0,short,1,0,1,IO,The professor was informed,that,the assistant,who arrived early,handed,a completed assignment,to,,yesterday afternoon.
+11,15,0,medium,1,0,1,IO,The professor was informed,that,the assistant,who worked late every night last week,handed,a completed assignment,to,,yesterday afternoon.
+11,16,0,long,1,0,1,IO,The professor was informed,that,the assistant,who collaborated with a senior researcher on an academic publishing project,handed,a completed assignment,to,,yesterday afternoon.
+11,17,1,null,0,0,0,DO,The professor was informed,what,the assistant,,handed,a completed assignment,to,the supervisor,yesterday afternoon.
+11,18,1,short,0,0,0,DO,The professor was informed,what,the assistant,who arrived early,handed,a completed assignment,to,the supervisor,yesterday afternoon.
+11,19,1,medium,0,0,0,DO,The professor was informed,what,the assistant,who worked late every night last week,handed,a completed assignment,to,the supervisor,yesterday afternoon.
+11,20,1,long,0,0,0,DO,The professor was informed,what,the assistant,who collaborated with a senior researcher on an academic publishing project,handed,a completed assignment,to,the supervisor,yesterday afternoon.
+11,21,1,null,1,1,0,DO,The professor was informed,what,the assistant,,handed,,to,the supervisor,yesterday afternoon.
+11,22,1,short,1,1,0,DO,The professor was informed,what,the assistant,who arrived early,handed,,to,the supervisor,yesterday afternoon.
+11,23,1,medium,1,1,0,DO,The professor was informed,what,the assistant,who worked late every night last week,handed,,to,the supervisor,yesterday afternoon.
+11,24,1,long,1,1,0,DO,The professor was informed,what,the assistant,who collaborated with a senior researcher on an academic publishing project,handed,,to,the supervisor,yesterday afternoon.
+11,25,2,null,0,0,0,IO,The professor was informed,who,the assistant,,handed,a completed assignment,to,the supervisor,yesterday afternoon.
+11,26,2,short,0,0,0,IO,The professor was informed,who,the assistant,who arrived early,handed,a completed assignment,to,the supervisor,yesterday afternoon.
+11,27,2,medium,0,0,0,IO,The professor was informed,who,the assistant,who worked late every night last week,handed,a completed assignment,to,the supervisor,yesterday afternoon.
+11,28,2,long,0,0,0,IO,The professor was informed,who,the assistant,who collaborated with a senior researcher on an academic publishing project,handed,a completed assignment,to,the supervisor,yesterday afternoon.
+11,29,2,null,1,0,1,IO,The professor was informed,who,the assistant,,handed,a completed assignment,to,,yesterday afternoon.
+11,30,2,short,1,0,1,IO,The professor was informed,who,the assistant,who arrived early,handed,a completed assignment,to,,yesterday afternoon.
+11,31,2,medium,1,0,1,IO,The professor was informed,who,the assistant,who worked late every night last week,handed,a completed assignment,to,,yesterday afternoon.
+11,32,2,long,1,0,1,IO,The professor was informed,who,the assistant,who collaborated with a senior researcher on an academic publishing project,handed,a completed assignment,to,,yesterday afternoon.
+12,1,0,null,0,0,0,DO,It was revealed,that,the engineer,,delivered,the technical report,to,the project manager,early Monday morning.
+12,2,0,short,0,0,0,DO,It was revealed,that,the engineer,who visited last week,delivered,the technical report,to,the project manager,early Monday morning.
+12,3,0,medium,0,0,0,DO,It was revealed,that,the engineer,who inspected the new construction site yesterday,delivered,the technical report,to,the project manager,early Monday morning.
+12,4,0,long,0,0,0,DO,It was revealed,that,the engineer,who worked with teams during the project’s early design phase,delivered,the technical report,to,the project manager,early Monday morning.
+12,5,0,null,0,0,0,IO,It was revealed,that,the engineer,,delivered,the technical report,to,the project manager,early Monday morning.
+12,6,0,short,0,0,0,IO,It was revealed,that,the engineer,who visited last week,delivered,the technical report,to,the project manager,early Monday morning.
+12,7,0,medium,0,0,0,IO,It was revealed,that,the engineer,who inspected the new construction site yesterday,delivered,the technical report,to,the project manager,early Monday morning.
+12,8,0,long,0,0,0,IO,It was revealed,that,the engineer,who worked with teams during the project’s early design phase,delivered,the technical report,to,the project manager,early Monday morning.
+12,9,0,null,1,1,0,DO,It was revealed,that,the engineer,,delivered,,to,the project manager,early Monday morning.
+12,10,0,short,1,1,0,DO,It was revealed,that,the engineer,who visited last week,delivered,,to,the project manager,early Monday morning.
+12,11,0,medium,1,1,0,DO,It was revealed,that,the engineer,who inspected the new construction site yesterday,delivered,,to,the project manager,early Monday morning.
+12,12,0,long,1,1,0,DO,It was revealed,that,the engineer,who worked with teams during the project’s early design phase,delivered,,to,the project manager,early Monday morning.
+12,13,0,null,1,0,1,IO,It was revealed,that,the engineer,,delivered,the technical report,to,,early Monday morning.
+12,14,0,short,1,0,1,IO,It was revealed,that,the engineer,who visited last week,delivered,the technical report,to,,early Monday morning.
+12,15,0,medium,1,0,1,IO,It was revealed,that,the engineer,who inspected the new construction site yesterday,delivered,the technical report,to,,early Monday morning.
+12,16,0,long,1,0,1,IO,It was revealed,that,the engineer,who worked with teams during the project’s early design phase,delivered,the technical report,to,,early Monday morning.
+12,17,1,null,0,0,0,DO,It was revealed,what,the engineer,,delivered,the technical report,to,the project manager,early Monday morning.
+12,18,1,short,0,0,0,DO,It was revealed,what,the engineer,who visited last week,delivered,the technical report,to,the project manager,early Monday morning.
+12,19,1,medium,0,0,0,DO,It was revealed,what,the engineer,who inspected the new construction site yesterday,delivered,the technical report,to,the project manager,early Monday morning.
+12,20,1,long,0,0,0,DO,It was revealed,what,the engineer,who worked with teams during the project’s early design phase,delivered,the technical report,to,the project manager,early Monday morning.
+12,21,1,null,1,1,0,DO,It was revealed,what,the engineer,,delivered,,to,the project manager,early Monday morning.
+12,22,1,short,1,1,0,DO,It was revealed,what,the engineer,who visited last week,delivered,,to,the project manager,early Monday morning.
+12,23,1,medium,1,1,0,DO,It was revealed,what,the engineer,who inspected the new construction site yesterday,delivered,,to,the project manager,early Monday morning.
+12,24,1,long,1,1,0,DO,It was revealed,what,the engineer,who worked with teams during the project’s early design phase,delivered,,to,the project manager,early Monday morning.
+12,25,2,null,0,0,0,IO,It was revealed,who,the engineer,,delivered,the technical report,to,the project manager,early Monday morning.
+12,26,2,short,0,0,0,IO,It was revealed,who,the engineer,who visited last week,delivered,the technical report,to,the project manager,early Monday morning.
+12,27,2,medium,0,0,0,IO,It was revealed,who,the engineer,who inspected the new construction site yesterday,delivered,the technical report,to,the project manager,early Monday morning.
+12,28,2,long,0,0,0,IO,It was revealed,who,the engineer,who worked with teams during the project’s early design phase,delivered,the technical report,to,the project manager,early Monday morning.
+12,29,2,null,1,0,1,IO,It was revealed,who,the engineer,,delivered,the technical report,to,,early Monday morning.
+12,30,2,short,1,0,1,IO,It was revealed,who,the engineer,who visited last week,delivered,the technical report,to,,early Monday morning.
+12,31,2,medium,1,0,1,IO,It was revealed,who,the engineer,who inspected the new construction site yesterday,delivered,the technical report,to,,early Monday morning.
+12,32,2,long,1,0,1,IO,It was revealed,who,the engineer,who worked with teams during the project’s early design phase,delivered,the technical report,to,,early Monday morning.
+13,1,0,null,0,0,0,DO,We realized,that,the chef,,offered,a complimentary dessert,to,the guests,after the dinner service.
+13,2,0,short,0,0,0,DO,We realized,that,the chef,who you met downtown,offered,a complimentary dessert,to,the guests,after the dinner service.
+13,3,0,medium,0,0,0,DO,We realized,that,the chef,who just opened a restaurant across the street,offered,a complimentary dessert,to,the guests,after the dinner service.
+13,4,0,long,0,0,0,DO,We realized,that,the chef,who trained at a culinary institute in France before returning home,offered,a complimentary dessert,to,the guests,after the dinner service.
+13,5,0,null,0,0,0,IO,We realized,that,the chef,,offered,a complimentary dessert,to,the guests,after the dinner service.
+13,6,0,short,0,0,0,IO,We realized,that,the chef,who you met downtown,offered,a complimentary dessert,to,the guests,after the dinner service.
+13,7,0,medium,0,0,0,IO,We realized,that,the chef,who just opened a restaurant across the street,offered,a complimentary dessert,to,the guests,after the dinner service.
+13,8,0,long,0,0,0,IO,We realized,that,the chef,who trained at a culinary institute in France before returning home,offered,a complimentary dessert,to,the guests,after the dinner service.
+13,9,0,null,1,1,0,DO,We realized,that,the chef,,offered,,to,the guests,after the dinner service.
+13,10,0,short,1,1,0,DO,We realized,that,the chef,who you met downtown,offered,,to,the guests,after the dinner service.
+13,11,0,medium,1,1,0,DO,We realized,that,the chef,who just opened a restaurant across the street,offered,,to,the guests,after the dinner service.
+13,12,0,long,1,1,0,DO,We realized,that,the chef,who trained at a culinary institute in France before returning home,offered,,to,the guests,after the dinner service.
+13,13,0,null,1,0,1,IO,We realized,that,the chef,,offered,a complimentary dessert,to,,after the dinner service.
+13,14,0,short,1,0,1,IO,We realized,that,the chef,who you met downtown,offered,a complimentary dessert,to,,after the dinner service.
+13,15,0,medium,1,0,1,IO,We realized,that,the chef,who just opened a restaurant across the street,offered,a complimentary dessert,to,,after the dinner service.
+13,16,0,long,1,0,1,IO,We realized,that,the chef,who trained at a culinary institute in France before returning home,offered,a complimentary dessert,to,,after the dinner service.
+13,17,1,null,0,0,0,DO,We realized,what,the chef,,offered,a complimentary dessert,to,the guests,after the dinner service.
+13,18,1,short,0,0,0,DO,We realized,what,the chef,who you met downtown,offered,a complimentary dessert,to,the guests,after the dinner service.
+13,19,1,medium,0,0,0,DO,We realized,what,the chef,who just opened a restaurant across the street,offered,a complimentary dessert,to,the guests,after the dinner service.
+13,20,1,long,0,0,0,DO,We realized,what,the chef,who trained at a culinary institute in France before returning home,offered,a complimentary dessert,to,the guests,after the dinner service.
+13,21,1,null,1,1,0,DO,We realized,what,the chef,,offered,,to,the guests,after the dinner service.
+13,22,1,short,1,1,0,DO,We realized,what,the chef,who you met downtown,offered,,to,the guests,after the dinner service.
+13,23,1,medium,1,1,0,DO,We realized,what,the chef,who just opened a restaurant across the street,offered,,to,the guests,after the dinner service.
+13,24,1,long,1,1,0,DO,We realized,what,the chef,who trained at a culinary institute in France before returning home,offered,,to,the guests,after the dinner service.
+13,25,2,null,0,0,0,IO,We realized,who,the chef,,offered,a complimentary dessert,to,the guests,after the dinner service.
+13,26,2,short,0,0,0,IO,We realized,who,the chef,who you met downtown,offered,a complimentary dessert,to,the guests,after the dinner service.
+13,27,2,medium,0,0,0,IO,We realized,who,the chef,who just opened a restaurant across the street,offered,a complimentary dessert,to,the guests,after the dinner service.
+13,28,2,long,0,0,0,IO,We realized,who,the chef,who trained at a culinary institute in France before returning home,offered,a complimentary dessert,to,the guests,after the dinner service.
+13,29,2,null,1,0,1,IO,We realized,who,the chef,,offered,a complimentary dessert,to,,after the dinner service.
+13,30,2,short,1,0,1,IO,We realized,who,the chef,who you met downtown,offered,a complimentary dessert,to,,after the dinner service.
+13,31,2,medium,1,0,1,IO,We realized,who,the chef,who just opened a restaurant across the street,offered,a complimentary dessert,to,,after the dinner service.
+13,32,2,long,1,0,1,IO,We realized,who,the chef,who trained at a culinary institute in France before returning home,offered,a complimentary dessert,to,,after the dinner service.
+14,1,0,null,0,0,0,DO,The students were told,that,the librarian,,sent,a late notice,to,the borrower,yesterday evening.
+14,2,0,short,0,0,0,DO,The students were told,that,the librarian,who borrowed three books,sent,a late notice,to,the borrower,yesterday evening.
+14,3,0,medium,0,0,0,DO,The students were told,that,the librarian,who had an overdue fine from last semester,sent,a late notice,to,the borrower,yesterday evening.
+14,4,0,long,0,0,0,DO,The students were told,that,the librarian,who frequently attended library-sponsored workshops and lectures throughout the year,sent,a late notice,to,the borrower,yesterday evening.
+14,5,0,null,0,0,0,IO,The students were told,that,the librarian,,sent,a late notice,to,the borrower,yesterday evening.
+14,6,0,short,0,0,0,IO,The students were told,that,the librarian,who borrowed three books,sent,a late notice,to,the borrower,yesterday evening.
+14,7,0,medium,0,0,0,IO,The students were told,that,the librarian,who had an overdue fine from last semester,sent,a late notice,to,the borrower,yesterday evening.
+14,8,0,long,0,0,0,IO,The students were told,that,the librarian,who frequently attended library-sponsored workshops and lectures throughout the year,sent,a late notice,to,the borrower,yesterday evening.
+14,9,0,null,1,1,0,DO,The students were told,that,the librarian,,sent,,to,the borrower,yesterday evening.
+14,10,0,short,1,1,0,DO,The students were told,that,the librarian,who borrowed three books,sent,,to,the borrower,yesterday evening.
+14,11,0,medium,1,1,0,DO,The students were told,that,the librarian,who had an overdue fine from last semester,sent,,to,the borrower,yesterday evening.
+14,12,0,long,1,1,0,DO,The students were told,that,the librarian,who frequently attended library-sponsored workshops and lectures throughout the year,sent,,to,the borrower,yesterday evening.
+14,13,0,null,1,0,1,IO,The students were told,that,the librarian,,sent,a late notice,to,,yesterday evening.
+14,14,0,short,1,0,1,IO,The students were told,that,the librarian,who borrowed three books,sent,a late notice,to,,yesterday evening.
+14,15,0,medium,1,0,1,IO,The students were told,that,the librarian,who had an overdue fine from last semester,sent,a late notice,to,,yesterday evening.
+14,16,0,long,1,0,1,IO,The students were told,that,the librarian,who frequently attended library-sponsored workshops and lectures throughout the year,sent,a late notice,to,,yesterday evening.
+14,17,1,null,0,0,0,DO,The students were told,what,the librarian,,sent,a late notice,to,the borrower,yesterday evening.
+14,18,1,short,0,0,0,DO,The students were told,what,the librarian,who borrowed three books,sent,a late notice,to,the borrower,yesterday evening.
+14,19,1,medium,0,0,0,DO,The students were told,what,the librarian,who had an overdue fine from last semester,sent,a late notice,to,the borrower,yesterday evening.
+14,20,1,long,0,0,0,DO,The students were told,what,the librarian,who frequently attended library-sponsored workshops and lectures throughout the year,sent,a late notice,to,the borrower,yesterday evening.
+14,21,1,null,1,1,0,DO,The students were told,what,the librarian,,sent,,to,the borrower,yesterday evening.
+14,22,1,short,1,1,0,DO,The students were told,what,the librarian,who borrowed three books,sent,,to,the borrower,yesterday evening.
+14,23,1,medium,1,1,0,DO,The students were told,what,the librarian,who had an overdue fine from last semester,sent,,to,the borrower,yesterday evening.
+14,24,1,long,1,1,0,DO,The students were told,what,the librarian,who frequently attended library-sponsored workshops and lectures throughout the year,sent,,to,the borrower,yesterday evening.
+14,25,2,null,0,0,0,IO,The students were told,who,the librarian,,sent,a late notice,to,the borrower,yesterday evening.
+14,26,2,short,0,0,0,IO,The students were told,who,the librarian,who borrowed three books,sent,a late notice,to,the borrower,yesterday evening.
+14,27,2,medium,0,0,0,IO,The students were told,who,the librarian,who had an overdue fine from last semester,sent,a late notice,to,the borrower,yesterday evening.
+14,28,2,long,0,0,0,IO,The students were told,who,the librarian,who frequently attended library-sponsored workshops and lectures throughout the year,sent,a late notice,to,the borrower,yesterday evening.
+14,29,2,null,1,0,1,IO,The students were told,who,the librarian,,sent,a late notice,to,,yesterday evening.
+14,30,2,short,1,0,1,IO,The students were told,who,the librarian,who borrowed three books,sent,a late notice,to,,yesterday evening.
+14,31,2,medium,1,0,1,IO,The students were told,who,the librarian,who had an overdue fine from last semester,sent,a late notice,to,,yesterday evening.
+14,32,2,long,1,0,1,IO,The students were told,who,the librarian,who frequently attended library-sponsored workshops and lectures throughout the year,sent,a late notice,to,,yesterday evening.
+15,1,0,null,0,0,0,DO,The curator found out,that,the artist,,donated,a sculpture,to,the museum,last spring.
+15,2,0,short,0,0,0,DO,The curator found out,that,the artist,who you met briefly,donated,a sculpture,to,the museum,last spring.
+15,3,0,medium,0,0,0,DO,The curator found out,that,the artist,who displayed their work in the modernist section,donated,a sculpture,to,the museum,last spring.
+15,4,0,long,0,0,0,DO,The curator found out,that,the artist,who exhibited environmental-themed artwork at several major shows last decade,donated,a sculpture,to,the museum,last spring.
+15,5,0,null,0,0,0,IO,The curator found out,that,the artist,,donated,a sculpture,to,the museum,last spring.
+15,6,0,short,0,0,0,IO,The curator found out,that,the artist,who you met briefly,donated,a sculpture,to,the museum,last spring.
+15,7,0,medium,0,0,0,IO,The curator found out,that,the artist,who displayed their work in the modernist section,donated,a sculpture,to,the museum,last spring.
+15,8,0,long,0,0,0,IO,The curator found out,that,the artist,who exhibited environmental-themed artwork at several major shows last decade,donated,a sculpture,to,the museum,last spring.
+15,9,0,null,1,1,0,DO,The curator found out,that,the artist,,donated,,to,the museum,last spring.
+15,10,0,short,1,1,0,DO,The curator found out,that,the artist,who you met briefly,donated,,to,the museum,last spring.
+15,11,0,medium,1,1,0,DO,The curator found out,that,the artist,who displayed their work in the modernist section,donated,,to,the museum,last spring.
+15,12,0,long,1,1,0,DO,The curator found out,that,the artist,who exhibited environmental-themed artwork at several major shows last decade,donated,,to,the museum,last spring.
+15,13,0,null,1,0,1,IO,The curator found out,that,the artist,,donated,a sculpture,to,,last spring.
+15,14,0,short,1,0,1,IO,The curator found out,that,the artist,who you met briefly,donated,a sculpture,to,,last spring.
+15,15,0,medium,1,0,1,IO,The curator found out,that,the artist,who displayed their work in the modernist section,donated,a sculpture,to,,last spring.
+15,16,0,long,1,0,1,IO,The curator found out,that,the artist,who exhibited environmental-themed artwork at several major shows last decade,donated,a sculpture,to,,last spring.
+15,17,1,null,0,0,0,DO,The curator found out,what,the artist,,donated,a sculpture,to,the museum,last spring.
+15,18,1,short,0,0,0,DO,The curator found out,what,the artist,who you met briefly,donated,a sculpture,to,the museum,last spring.
+15,19,1,medium,0,0,0,DO,The curator found out,what,the artist,who displayed their work in the modernist section,donated,a sculpture,to,the museum,last spring.
+15,20,1,long,0,0,0,DO,The curator found out,what,the artist,who exhibited environmental-themed artwork at several major shows last decade,donated,a sculpture,to,the museum,last spring.
+15,21,1,null,1,1,0,DO,The curator found out,what,the artist,,donated,,to,the museum,last spring.
+15,22,1,short,1,1,0,DO,The curator found out,what,the artist,who you met briefly,donated,,to,the museum,last spring.
+15,23,1,medium,1,1,0,DO,The curator found out,what,the artist,who displayed their work in the modernist section,donated,,to,the museum,last spring.
+15,24,1,long,1,1,0,DO,The curator found out,what,the artist,who exhibited environmental-themed artwork at several major shows last decade,donated,,to,the museum,last spring.
+15,25,2,null,0,0,0,IO,The curator found out,who,the artist,,donated,a sculpture,to,the museum,last spring.
+15,26,2,short,0,0,0,IO,The curator found out,who,the artist,who you met briefly,donated,a sculpture,to,the museum,last spring.
+15,27,2,medium,0,0,0,IO,The curator found out,who,the artist,who displayed their work in the modernist section,donated,a sculpture,to,the museum,last spring.
+15,28,2,long,0,0,0,IO,The curator found out,who,the artist,who exhibited environmental-themed artwork at several major shows last decade,donated,a sculpture,to,the museum,last spring.
+15,29,2,null,1,0,1,IO,The curator found out,who,the artist,,donated,a sculpture,to,,last spring.
+15,30,2,short,1,0,1,IO,The curator found out,who,the artist,who you met briefly,donated,a sculpture,to,,last spring.
+15,31,2,medium,1,0,1,IO,The curator found out,who,the artist,who displayed their work in the modernist section,donated,a sculpture,to,,last spring.
+15,32,2,long,1,0,1,IO,The curator found out,who,the artist,who exhibited environmental-themed artwork at several major shows last decade,donated,a sculpture,to,,last spring.
+16,1,0,null,0,0,0,DO,It was discovered,that,the counselor,,recommended,a therapist,to,the student,earlier this semester.
+16,2,0,short,0,0,0,DO,It was discovered,that,the counselor,who you spoke with today,recommended,a therapist,to,the student,earlier this semester.
+16,3,0,medium,0,0,0,DO,It was discovered,that,the counselor,who specializes in anxiety and stress management techniques,recommended,a therapist,to,the student,earlier this semester.
+16,4,0,long,0,0,0,DO,It was discovered,that,the counselor,who created group programs to help first-year students adjust to college life,recommended,a therapist,to,the student,earlier this semester.
+16,5,0,null,0,0,0,IO,It was discovered,that,the counselor,,recommended,a therapist,to,the student,earlier this semester.
+16,6,0,short,0,0,0,IO,It was discovered,that,the counselor,who you spoke with today,recommended,a therapist,to,the student,earlier this semester.
+16,7,0,medium,0,0,0,IO,It was discovered,that,the counselor,who specializes in anxiety and stress management techniques,recommended,a therapist,to,the student,earlier this semester.
+16,8,0,long,0,0,0,IO,It was discovered,that,the counselor,who created group programs to help first-year students adjust to college life,recommended,a therapist,to,the student,earlier this semester.
+16,9,0,null,1,1,0,DO,It was discovered,that,the counselor,,recommended,,to,the student,earlier this semester.
+16,10,0,short,1,1,0,DO,It was discovered,that,the counselor,who you spoke with today,recommended,,to,the student,earlier this semester.
+16,11,0,medium,1,1,0,DO,It was discovered,that,the counselor,who specializes in anxiety and stress management techniques,recommended,,to,the student,earlier this semester.
+16,12,0,long,1,1,0,DO,It was discovered,that,the counselor,who created group programs to help first-year students adjust to college life,recommended,,to,the student,earlier this semester.
+16,13,0,null,1,0,1,IO,It was discovered,that,the counselor,,recommended,a therapist,to,,earlier this semester.
+16,14,0,short,1,0,1,IO,It was discovered,that,the counselor,who you spoke with today,recommended,a therapist,to,,earlier this semester.
+16,15,0,medium,1,0,1,IO,It was discovered,that,the counselor,who specializes in anxiety and stress management techniques,recommended,a therapist,to,,earlier this semester.
+16,16,0,long,1,0,1,IO,It was discovered,that,the counselor,who created group programs to help first-year students adjust to college life,recommended,a therapist,to,,earlier this semester.
+16,17,1,null,0,0,0,DO,It was discovered,what,the counselor,,recommended,a therapist,to,the student,earlier this semester.
+16,18,1,short,0,0,0,DO,It was discovered,what,the counselor,who you spoke with today,recommended,a therapist,to,the student,earlier this semester.
+16,19,1,medium,0,0,0,DO,It was discovered,what,the counselor,who specializes in anxiety and stress management techniques,recommended,a therapist,to,the student,earlier this semester.
+16,20,1,long,0,0,0,DO,It was discovered,what,the counselor,who created group programs to help first-year students adjust to college life,recommended,a therapist,to,the student,earlier this semester.
+16,21,1,null,1,1,0,DO,It was discovered,what,the counselor,,recommended,,to,the student,earlier this semester.
+16,22,1,short,1,1,0,DO,It was discovered,what,the counselor,who you spoke with today,recommended,,to,the student,earlier this semester.
+16,23,1,medium,1,1,0,DO,It was discovered,what,the counselor,who specializes in anxiety and stress management techniques,recommended,,to,the student,earlier this semester.
+16,24,1,long,1,1,0,DO,It was discovered,what,the counselor,who created group programs to help first-year students adjust to college life,recommended,,to,the student,earlier this semester.
+16,25,2,null,0,0,0,IO,It was discovered,who,the counselor,,recommended,a therapist,to,the student,earlier this semester.
+16,26,2,short,0,0,0,IO,It was discovered,who,the counselor,who you spoke with today,recommended,a therapist,to,the student,earlier this semester.
+16,27,2,medium,0,0,0,IO,It was discovered,who,the counselor,who specializes in anxiety and stress management techniques,recommended,a therapist,to,the student,earlier this semester.
+16,28,2,long,0,0,0,IO,It was discovered,who,the counselor,who created group programs to help first-year students adjust to college life,recommended,a therapist,to,the student,earlier this semester.
+16,29,2,null,1,0,1,IO,It was discovered,who,the counselor,,recommended,a therapist,to,,earlier this semester.
+16,30,2,short,1,0,1,IO,It was discovered,who,the counselor,who you spoke with today,recommended,a therapist,to,,earlier this semester.
+16,31,2,medium,1,0,1,IO,It was discovered,who,the counselor,who specializes in anxiety and stress management techniques,recommended,a therapist,to,,earlier this semester.
+16,32,2,long,1,0,1,IO,It was discovered,who,the counselor,who created group programs to help first-year students adjust to college life,recommended,a therapist,to,,earlier this semester.
+17,1,0,null,0,0,0,DO,The volunteers noticed,that,the coordinator,,handed out,name tags,to,the participants,at the start of the workshop.
+17,2,0,short,0,0,0,DO,The volunteers noticed,that,the coordinator,who organized yesterday's event,handed out,name tags,to,the participants,at the start of the workshop.
+17,3,0,medium,0,0,0,DO,The volunteers noticed,that,the coordinator,who sent the final schedule to everyone,handed out,name tags,to,the participants,at the start of the workshop.
+17,4,0,long,0,0,0,DO,The volunteers noticed,that,the coordinator,who worked with nonprofits to deliver weekend training sessions in several cities,handed out,name tags,to,the participants,at the start of the workshop.
+17,5,0,null,0,0,0,IO,The volunteers noticed,that,the coordinator,,handed out,name tags,to,the participants,at the start of the workshop.
+17,6,0,short,0,0,0,IO,The volunteers noticed,that,the coordinator,who organized yesterday's event,handed out,name tags,to,the participants,at the start of the workshop.
+17,7,0,medium,0,0,0,IO,The volunteers noticed,that,the coordinator,who sent the final schedule to everyone,handed out,name tags,to,the participants,at the start of the workshop.
+17,8,0,long,0,0,0,IO,The volunteers noticed,that,the coordinator,who worked with nonprofits to deliver weekend training sessions in several cities,handed out,name tags,to,the participants,at the start of the workshop.
+17,9,0,null,1,1,0,DO,The volunteers noticed,that,the coordinator,,handed out,,to,the participants,at the start of the workshop.
+17,10,0,short,1,1,0,DO,The volunteers noticed,that,the coordinator,who organized yesterday's event,handed out,,to,the participants,at the start of the workshop.
+17,11,0,medium,1,1,0,DO,The volunteers noticed,that,the coordinator,who sent the final schedule to everyone,handed out,,to,the participants,at the start of the workshop.
+17,12,0,long,1,1,0,DO,The volunteers noticed,that,the coordinator,who worked with nonprofits to deliver weekend training sessions in several cities,handed out,,to,the participants,at the start of the workshop.
+17,13,0,null,1,0,1,IO,The volunteers noticed,that,the coordinator,,handed out,name tags,to,,at the start of the workshop.
+17,14,0,short,1,0,1,IO,The volunteers noticed,that,the coordinator,who organized yesterday's event,handed out,name tags,to,,at the start of the workshop.
+17,15,0,medium,1,0,1,IO,The volunteers noticed,that,the coordinator,who sent the final schedule to everyone,handed out,name tags,to,,at the start of the workshop.
+17,16,0,long,1,0,1,IO,The volunteers noticed,that,the coordinator,who worked with nonprofits to deliver weekend training sessions in several cities,handed out,name tags,to,,at the start of the workshop.
+17,17,1,null,0,0,0,DO,The volunteers noticed,what,the coordinator,,handed out,name tags,to,the participants,at the start of the workshop.
+17,18,1,short,0,0,0,DO,The volunteers noticed,what,the coordinator,who organized yesterday's event,handed out,name tags,to,the participants,at the start of the workshop.
+17,19,1,medium,0,0,0,DO,The volunteers noticed,what,the coordinator,who sent the final schedule to everyone,handed out,name tags,to,the participants,at the start of the workshop.
+17,20,1,long,0,0,0,DO,The volunteers noticed,what,the coordinator,who worked with nonprofits to deliver weekend training sessions in several cities,handed out,name tags,to,the participants,at the start of the workshop.
+17,21,1,null,1,1,0,DO,The volunteers noticed,what,the coordinator,,handed out,,to,the participants,at the start of the workshop.
+17,22,1,short,1,1,0,DO,The volunteers noticed,what,the coordinator,who organized yesterday's event,handed out,,to,the participants,at the start of the workshop.
+17,23,1,medium,1,1,0,DO,The volunteers noticed,what,the coordinator,who sent the final schedule to everyone,handed out,,to,the participants,at the start of the workshop.
+17,24,1,long,1,1,0,DO,The volunteers noticed,what,the coordinator,who worked with nonprofits to deliver weekend training sessions in several cities,handed out,,to,the participants,at the start of the workshop.
+17,25,2,null,0,0,0,IO,The volunteers noticed,who,the coordinator,,handed out,name tags,to,the participants,at the start of the workshop.
+17,26,2,short,0,0,0,IO,The volunteers noticed,who,the coordinator,who organized yesterday's event,handed out,name tags,to,the participants,at the start of the workshop.
+17,27,2,medium,0,0,0,IO,The volunteers noticed,who,the coordinator,who sent the final schedule to everyone,handed out,name tags,to,the participants,at the start of the workshop.
+17,28,2,long,0,0,0,IO,The volunteers noticed,who,the coordinator,who worked with nonprofits to deliver weekend training sessions in several cities,handed out,name tags,to,the participants,at the start of the workshop.
+17,29,2,null,1,0,1,IO,The volunteers noticed,who,the coordinator,,handed out,name tags,to,,at the start of the workshop.
+17,30,2,short,1,0,1,IO,The volunteers noticed,who,the coordinator,who organized yesterday's event,handed out,name tags,to,,at the start of the workshop.
+17,31,2,medium,1,0,1,IO,The volunteers noticed,who,the coordinator,who sent the final schedule to everyone,handed out,name tags,to,,at the start of the workshop.
+17,32,2,long,1,0,1,IO,The volunteers noticed,who,the coordinator,who worked with nonprofits to deliver weekend training sessions in several cities,handed out,name tags,to,,at the start of the workshop.
+18,1,0,null,0,0,0,DO,The executive was informed,that,the assistant,,forwarded,the confidential memo,to,the legal team,this afternoon.
+18,2,0,short,0,0,0,DO,The executive was informed,that,the assistant,who handled sensitive files,forwarded,the confidential memo,to,the legal team,this afternoon.
+18,3,0,medium,0,0,0,DO,The executive was informed,that,the assistant,who worked under the director for two years,forwarded,the confidential memo,to,the legal team,this afternoon.
+18,4,0,long,0,0,0,DO,The executive was informed,that,the assistant,who managed contracts and paperwork during last quarter’s corporate audit process,forwarded,the confidential memo,to,the legal team,this afternoon.
+18,5,0,null,0,0,0,IO,The executive was informed,that,the assistant,,forwarded,the confidential memo,to,the legal team,this afternoon.
+18,6,0,short,0,0,0,IO,The executive was informed,that,the assistant,who handled sensitive files,forwarded,the confidential memo,to,the legal team,this afternoon.
+18,7,0,medium,0,0,0,IO,The executive was informed,that,the assistant,who worked under the director for two years,forwarded,the confidential memo,to,the legal team,this afternoon.
+18,8,0,long,0,0,0,IO,The executive was informed,that,the assistant,who managed contracts and paperwork during last quarter’s corporate audit process,forwarded,the confidential memo,to,the legal team,this afternoon.
+18,9,0,null,1,1,0,DO,The executive was informed,that,the assistant,,forwarded,,to,the legal team,this afternoon.
+18,10,0,short,1,1,0,DO,The executive was informed,that,the assistant,who handled sensitive files,forwarded,,to,the legal team,this afternoon.
+18,11,0,medium,1,1,0,DO,The executive was informed,that,the assistant,who worked under the director for two years,forwarded,,to,the legal team,this afternoon.
+18,12,0,long,1,1,0,DO,The executive was informed,that,the assistant,who managed contracts and paperwork during last quarter’s corporate audit process,forwarded,,to,the legal team,this afternoon.
+18,13,0,null,1,0,1,IO,The executive was informed,that,the assistant,,forwarded,the confidential memo,to,,this afternoon.
+18,14,0,short,1,0,1,IO,The executive was informed,that,the assistant,who handled sensitive files,forwarded,the confidential memo,to,,this afternoon.
+18,15,0,medium,1,0,1,IO,The executive was informed,that,the assistant,who worked under the director for two years,forwarded,the confidential memo,to,,this afternoon.
+18,16,0,long,1,0,1,IO,The executive was informed,that,the assistant,who managed contracts and paperwork during last quarter’s corporate audit process,forwarded,the confidential memo,to,,this afternoon.
+18,17,1,null,0,0,0,DO,The executive was informed,what,the assistant,,forwarded,the confidential memo,to,the legal team,this afternoon.
+18,18,1,short,0,0,0,DO,The executive was informed,what,the assistant,who handled sensitive files,forwarded,the confidential memo,to,the legal team,this afternoon.
+18,19,1,medium,0,0,0,DO,The executive was informed,what,the assistant,who worked under the director for two years,forwarded,the confidential memo,to,the legal team,this afternoon.
+18,20,1,long,0,0,0,DO,The executive was informed,what,the assistant,who managed contracts and paperwork during last quarter’s corporate audit process,forwarded,the confidential memo,to,the legal team,this afternoon.
+18,21,1,null,1,1,0,DO,The executive was informed,what,the assistant,,forwarded,,to,the legal team,this afternoon.
+18,22,1,short,1,1,0,DO,The executive was informed,what,the assistant,who handled sensitive files,forwarded,,to,the legal team,this afternoon.
+18,23,1,medium,1,1,0,DO,The executive was informed,what,the assistant,who worked under the director for two years,forwarded,,to,the legal team,this afternoon.
+18,24,1,long,1,1,0,DO,The executive was informed,what,the assistant,who managed contracts and paperwork during last quarter’s corporate audit process,forwarded,,to,the legal team,this afternoon.
+18,25,2,null,0,0,0,IO,The executive was informed,who,the assistant,,forwarded,the confidential memo,to,the legal team,this afternoon.
+18,26,2,short,0,0,0,IO,The executive was informed,who,the assistant,who handled sensitive files,forwarded,the confidential memo,to,the legal team,this afternoon.
+18,27,2,medium,0,0,0,IO,The executive was informed,who,the assistant,who worked under the director for two years,forwarded,the confidential memo,to,the legal team,this afternoon.
+18,28,2,long,0,0,0,IO,The executive was informed,who,the assistant,who managed contracts and paperwork during last quarter’s corporate audit process,forwarded,the confidential memo,to,the legal team,this afternoon.
+18,29,2,null,1,0,1,IO,The executive was informed,who,the assistant,,forwarded,the confidential memo,to,,this afternoon.
+18,30,2,short,1,0,1,IO,The executive was informed,who,the assistant,who handled sensitive files,forwarded,the confidential memo,to,,this afternoon.
+18,31,2,medium,1,0,1,IO,The executive was informed,who,the assistant,who worked under the director for two years,forwarded,the confidential memo,to,,this afternoon.
+18,32,2,long,1,0,1,IO,The executive was informed,who,the assistant,who managed contracts and paperwork during last quarter’s corporate audit process,forwarded,the confidential memo,to,,this afternoon.
+19,1,0,null,0,0,0,DO,We learned,that,the teacher,,offered,extra credit,to,the students,after the difficult exam.
+19,2,0,short,0,0,0,DO,We learned,that,the teacher,who teaches math,offered,extra credit,to,the students,after the difficult exam.
+19,3,0,medium,0,0,0,DO,We learned,that,the teacher,who helped organize the school science fair,offered,extra credit,to,the students,after the difficult exam.
+19,4,0,long,0,0,0,DO,We learned,that,the teacher,who coached academic teams at regional and national competitions last year,offered,extra credit,to,the students,after the difficult exam.
+19,5,0,null,0,0,0,IO,We learned,that,the teacher,,offered,extra credit,to,the students,after the difficult exam.
+19,6,0,short,0,0,0,IO,We learned,that,the teacher,who teaches math,offered,extra credit,to,the students,after the difficult exam.
+19,7,0,medium,0,0,0,IO,We learned,that,the teacher,who helped organize the school science fair,offered,extra credit,to,the students,after the difficult exam.
+19,8,0,long,0,0,0,IO,We learned,that,the teacher,who coached academic teams at regional and national competitions last year,offered,extra credit,to,the students,after the difficult exam.
+19,9,0,null,1,1,0,DO,We learned,that,the teacher,,offered,,to,the students,after the difficult exam.
+19,10,0,short,1,1,0,DO,We learned,that,the teacher,who teaches math,offered,,to,the students,after the difficult exam.
+19,11,0,medium,1,1,0,DO,We learned,that,the teacher,who helped organize the school science fair,offered,,to,the students,after the difficult exam.
+19,12,0,long,1,1,0,DO,We learned,that,the teacher,who coached academic teams at regional and national competitions last year,offered,,to,the students,after the difficult exam.
+19,13,0,null,1,0,1,IO,We learned,that,the teacher,,offered,extra credit,to,,after the difficult exam.
+19,14,0,short,1,0,1,IO,We learned,that,the teacher,who teaches math,offered,extra credit,to,,after the difficult exam.
+19,15,0,medium,1,0,1,IO,We learned,that,the teacher,who helped organize the school science fair,offered,extra credit,to,,after the difficult exam.
+19,16,0,long,1,0,1,IO,We learned,that,the teacher,who coached academic teams at regional and national competitions last year,offered,extra credit,to,,after the difficult exam.
+19,17,1,null,0,0,0,DO,We learned,what,the teacher,,offered,extra credit,to,the students,after the difficult exam.
+19,18,1,short,0,0,0,DO,We learned,what,the teacher,who teaches math,offered,extra credit,to,the students,after the difficult exam.
+19,19,1,medium,0,0,0,DO,We learned,what,the teacher,who helped organize the school science fair,offered,extra credit,to,the students,after the difficult exam.
+19,20,1,long,0,0,0,DO,We learned,what,the teacher,who coached academic teams at regional and national competitions last year,offered,extra credit,to,the students,after the difficult exam.
+19,21,1,null,1,1,0,DO,We learned,what,the teacher,,offered,,to,the students,after the difficult exam.
+19,22,1,short,1,1,0,DO,We learned,what,the teacher,who teaches math,offered,,to,the students,after the difficult exam.
+19,23,1,medium,1,1,0,DO,We learned,what,the teacher,who helped organize the school science fair,offered,,to,the students,after the difficult exam.
+19,24,1,long,1,1,0,DO,We learned,what,the teacher,who coached academic teams at regional and national competitions last year,offered,,to,the students,after the difficult exam.
+19,25,2,null,0,0,0,IO,We learned,who,the teacher,,offered,extra credit,to,the students,after the difficult exam.
+19,26,2,short,0,0,0,IO,We learned,who,the teacher,who teaches math,offered,extra credit,to,the students,after the difficult exam.
+19,27,2,medium,0,0,0,IO,We learned,who,the teacher,who helped organize the school science fair,offered,extra credit,to,the students,after the difficult exam.
+19,28,2,long,0,0,0,IO,We learned,who,the teacher,who coached academic teams at regional and national competitions last year,offered,extra credit,to,the students,after the difficult exam.
+19,29,2,null,1,0,1,IO,We learned,who,the teacher,,offered,extra credit,to,,after the difficult exam.
+19,30,2,short,1,0,1,IO,We learned,who,the teacher,who teaches math,offered,extra credit,to,,after the difficult exam.
+19,31,2,medium,1,0,1,IO,We learned,who,the teacher,who helped organize the school science fair,offered,extra credit,to,,after the difficult exam.
+19,32,2,long,1,0,1,IO,We learned,who,the teacher,who coached academic teams at regional and national competitions last year,offered,extra credit,to,,after the difficult exam.
+20,1,0,null,0,0,0,DO,It was reported,that,the official,,allocated,additional resources,to,the emergency responders,following the storm.
+20,2,0,short,0,0,0,DO,It was reported,that,the official,who oversaw safety measures,allocated,additional resources,to,the emergency responders,following the storm.
+20,3,0,medium,0,0,0,DO,It was reported,that,the official,who briefed the mayor’s office last week,allocated,additional resources,to,the emergency responders,following the storm.
+20,4,0,long,0,0,0,DO,It was reported,that,the official,who coordinated disaster relief with agencies across the state during hurricane season,allocated,additional resources,to,the emergency responders,following the storm.
+20,5,0,null,0,0,0,IO,It was reported,that,the official,,allocated,additional resources,to,the emergency responders,following the storm.
+20,6,0,short,0,0,0,IO,It was reported,that,the official,who oversaw safety measures,allocated,additional resources,to,the emergency responders,following the storm.
+20,7,0,medium,0,0,0,IO,It was reported,that,the official,who briefed the mayor’s office last week,allocated,additional resources,to,the emergency responders,following the storm.
+20,8,0,long,0,0,0,IO,It was reported,that,the official,who coordinated disaster relief with agencies across the state during hurricane season,allocated,additional resources,to,the emergency responders,following the storm.
+20,9,0,null,1,1,0,DO,It was reported,that,the official,,allocated,,to,the emergency responders,following the storm.
+20,10,0,short,1,1,0,DO,It was reported,that,the official,who oversaw safety measures,allocated,,to,the emergency responders,following the storm.
+20,11,0,medium,1,1,0,DO,It was reported,that,the official,who briefed the mayor’s office last week,allocated,,to,the emergency responders,following the storm.
+20,12,0,long,1,1,0,DO,It was reported,that,the official,who coordinated disaster relief with agencies across the state during hurricane season,allocated,,to,the emergency responders,following the storm.
+20,13,0,null,1,0,1,IO,It was reported,that,the official,,allocated,additional resources,to,,following the storm.
+20,14,0,short,1,0,1,IO,It was reported,that,the official,who oversaw safety measures,allocated,additional resources,to,,following the storm.
+20,15,0,medium,1,0,1,IO,It was reported,that,the official,who briefed the mayor’s office last week,allocated,additional resources,to,,following the storm.
+20,16,0,long,1,0,1,IO,It was reported,that,the official,who coordinated disaster relief with agencies across the state during hurricane season,allocated,additional resources,to,,following the storm.
+20,17,1,null,0,0,0,DO,It was reported,what,the official,,allocated,additional resources,to,the emergency responders,following the storm.
+20,18,1,short,0,0,0,DO,It was reported,what,the official,who oversaw safety measures,allocated,additional resources,to,the emergency responders,following the storm.
+20,19,1,medium,0,0,0,DO,It was reported,what,the official,who briefed the mayor’s office last week,allocated,additional resources,to,the emergency responders,following the storm.
+20,20,1,long,0,0,0,DO,It was reported,what,the official,who coordinated disaster relief with agencies across the state during hurricane season,allocated,additional resources,to,the emergency responders,following the storm.
+20,21,1,null,1,1,0,DO,It was reported,what,the official,,allocated,,to,the emergency responders,following the storm.
+20,22,1,short,1,1,0,DO,It was reported,what,the official,who oversaw safety measures,allocated,,to,the emergency responders,following the storm.
+20,23,1,medium,1,1,0,DO,It was reported,what,the official,who briefed the mayor’s office last week,allocated,,to,the emergency responders,following the storm.
+20,24,1,long,1,1,0,DO,It was reported,what,the official,who coordinated disaster relief with agencies across the state during hurricane season,allocated,,to,the emergency responders,following the storm.
+20,25,2,null,0,0,0,IO,It was reported,who,the official,,allocated,additional resources,to,the emergency responders,following the storm.
+20,26,2,short,0,0,0,IO,It was reported,who,the official,who oversaw safety measures,allocated,additional resources,to,the emergency responders,following the storm.
+20,27,2,medium,0,0,0,IO,It was reported,who,the official,who briefed the mayor’s office last week,allocated,additional resources,to,the emergency responders,following the storm.
+20,28,2,long,0,0,0,IO,It was reported,who,the official,who coordinated disaster relief with agencies across the state during hurricane season,allocated,additional resources,to,the emergency responders,following the storm.
+20,29,2,null,1,0,1,IO,It was reported,who,the official,,allocated,additional resources,to,,following the storm.
+20,30,2,short,1,0,1,IO,It was reported,who,the official,who oversaw safety measures,allocated,additional resources,to,,following the storm.
+20,31,2,medium,1,0,1,IO,It was reported,who,the official,who briefed the mayor’s office last week,allocated,additional resources,to,,following the storm.
+20,32,2,long,1,0,1,IO,It was reported,who,the official,who coordinated disaster relief with agencies across the state during hurricane season,allocated,additional resources,to,,following the storm.

@@ -1,0 +1,241 @@
+item_id,condition,filler,gap,comp_type,prefix,filler_word,subj1,verb1,comp,subj2,embed_verb,obj,cont
+1,a,0,0,null,The teacher discovered,that,the student,claimed,,his friend,lost,the textbook,during the field trip.
+1,b,0,0,that,The teacher discovered,that,the student,claimed,that,his friend,lost,the textbook,during the field trip.
+1,c,0,0,whether,The teacher discovered,that,the student,claimed,whether,his friend,lost,the textbook,during the field trip.
+1,d,0,1,null,The teacher discovered,that,the student,claimed,,his friend,lost,,during the field trip.
+1,e,0,1,that,The teacher discovered,that,the student,claimed,that,his friend,lost,,during the field trip.
+1,f,0,1,whether,The teacher discovered,that,the student,claimed,whether,his friend,lost,,during the field trip.
+1,g,1,0,null,The teacher discovered,what,the student,claimed,,his friend,lost,the textbook,during the field trip.
+1,h,1,0,that,The teacher discovered,what,the student,claimed,that,his friend,lost,the textbook,during the field trip.
+1,i,1,0,whether,The teacher discovered,what,the student,claimed,whether,his friend,lost,the textbook,during the field trip.
+1,j,1,1,null,The teacher discovered,what,the student,claimed,,his friend,lost,,during the field trip.
+1,k,1,1,that,The teacher discovered,what,the student,claimed,that,his friend,lost,,during the field trip.
+1,l,1,1,whether,The teacher discovered,what,the student,claimed,whether,his friend,lost,,during the field trip.
+2,a,0,0,null,The manager realized,,the assistant,mentioned,,the intern,submitted,the report,before the deadline.
+2,b,0,0,that,The manager realized,,the assistant,mentioned,that,the intern,submitted,the report,before the deadline.
+2,c,0,0,whether,The manager realized,,the assistant,mentioned,whether,the intern,submitted,the report,before the deadline.
+2,d,0,1,null,The manager realized,,the assistant,mentioned,,the intern,submitted,,before the deadline.
+2,e,0,1,that,The manager realized,,the assistant,mentioned,that,the intern,submitted,,before the deadline.
+2,f,0,1,whether,The manager realized,,the assistant,mentioned,whether,the intern,submitted,,before the deadline.
+2,g,1,0,null,The manager realized,what,the assistant,mentioned,,the intern,submitted,the report,before the deadline.
+2,h,1,0,that,The manager realized,what,the assistant,mentioned,that,the intern,submitted,the report,before the deadline.
+2,i,1,0,whether,The manager realized,what,the assistant,mentioned,whether,the intern,submitted,the report,before the deadline.
+2,j,1,1,null,The manager realized,what,the assistant,mentioned,,the intern,submitted,,before the deadline.
+2,k,1,1,that,The manager realized,what,the assistant,mentioned,that,the intern,submitted,,before the deadline.
+2,l,1,1,whether,The manager realized,what,the assistant,mentioned,whether,the intern,submitted,,before the deadline.
+3,a,0,0,null,The journalist found out,,the senator,admitted,,his aide,leaked,the documents,during the press briefing.
+3,b,0,0,that,The journalist found out,,the senator,admitted,that,his aide,leaked,the documents,during the press briefing.
+3,c,0,0,whether,The journalist found out,,the senator,admitted,whether,his aide,leaked,the documents,during the press briefing.
+3,d,0,1,null,The journalist found out,,the senator,admitted,,his aide,leaked,,during the press briefing.
+3,e,0,1,that,The journalist found out,,the senator,admitted,that,his aide,leaked,,during the press briefing.
+3,f,0,1,whether,The journalist found out,,the senator,admitted,whether,his aide,leaked,,during the press briefing.
+3,g,1,0,null,The journalist found out,what,the senator,admitted,,his aide,leaked,the documents,during the press briefing.
+3,h,1,0,that,The journalist found out,what,the senator,admitted,that,his aide,leaked,the documents,during the press briefing.
+3,i,1,0,whether,The journalist found out,what,the senator,admitted,whether,his aide,leaked,the documents,during the press briefing.
+3,j,1,1,null,The journalist found out,what,the senator,admitted,,his aide,leaked,,during the press briefing.
+3,k,1,1,that,The journalist found out,what,the senator,admitted,that,his aide,leaked,,during the press briefing.
+3,l,1,1,whether,The journalist found out,what,the senator,admitted,whether,his aide,leaked,,during the press briefing.
+4,a,0,0,null,Alex realized,,his boss,hinted,,the secretary,forgot,the appointment,on Monday.
+4,b,0,0,that,Alex realized,,his boss,hinted,that,the secretary,forgot,the appointment,on Monday.
+4,c,0,0,whether,Alex realized,,his boss,hinted,whether,the secretary,forgot,the appointment,on Monday.
+4,d,0,1,null,Alex realized,,his boss,hinted,,the secretary,forgot,,on Monday.
+4,e,0,1,that,Alex realized,,his boss,hinted,that,the secretary,forgot,,on Monday.
+4,f,0,1,whether,Alex realized,,his boss,hinted,whether,the secretary,forgot,,on Monday.
+4,g,1,0,null,Alex realized,what,his boss,hinted,,the secretary,forgot,the appointment,on Monday.
+4,h,1,0,that,Alex realized,what,his boss,hinted,that,the secretary,forgot,the appointment,on Monday.
+4,i,1,0,whether,Alex realized,what,his boss,hinted,whether,the secretary,forgot,the appointment,on Monday.
+4,j,1,1,null,Alex realized,what,his boss,hinted,,the secretary,forgot,,on Monday.
+4,k,1,1,that,Alex realized,what,his boss,hinted,that,the secretary,forgot,,on Monday.
+4,l,1,1,whether,Alex realized,what,his boss,hinted,whether,the secretary,forgot,,on Monday.
+5,a,0,0,null,The student noticed,,the librarian,stated,,the volunteer,misplaced,the key,at the circulation desk.
+5,b,0,0,that,The student noticed,,the librarian,stated,that,the volunteer,misplaced,the key,at the circulation desk.
+5,c,0,0,whether,The student noticed,,the librarian,stated,whether,the volunteer,misplaced,the key,at the circulation desk.
+5,d,0,1,null,The student noticed,,the librarian,stated,,the volunteer,misplaced,,at the circulation desk.
+5,e,0,1,that,The student noticed,,the librarian,stated,that,the volunteer,misplaced,,at the circulation desk.
+5,f,0,1,whether,The student noticed,,the librarian,stated,whether,the volunteer,misplaced,,at the circulation desk.
+5,g,1,0,null,The student noticed,what,the librarian,stated,,the volunteer,misplaced,the key,at the circulation desk.
+5,h,1,0,that,The student noticed,what,the librarian,stated,that,the volunteer,misplaced,the key,at the circulation desk.
+5,i,1,0,whether,The student noticed,what,the librarian,stated,whether,the volunteer,misplaced,the key,at the circulation desk.
+5,j,1,1,null,The student noticed,what,the librarian,stated,,the volunteer,misplaced,,at the circulation desk.
+5,k,1,1,that,The student noticed,what,the librarian,stated,that,the volunteer,misplaced,,at the circulation desk.
+5,l,1,1,whether,The student noticed,what,the librarian,stated,whether,the volunteer,misplaced,,at the circulation desk.
+6,a,0,0,null,The supervisor predicted,,the engineer,confirmed,,the technician,installed,the new software,on the main server.
+6,b,0,0,that,The supervisor predicted,,the engineer,confirmed,that,the technician,installed,the new software,on the main server.
+6,c,0,0,whether,The supervisor predicted,,the engineer,confirmed,whether,the technician,installed,the new software,on the main server.
+6,d,0,1,null,The supervisor predicted,,the engineer,confirmed,,the technician,installed,,on the main server.
+6,e,0,1,that,The supervisor predicted,,the engineer,confirmed,that,the technician,installed,,on the main server.
+6,f,0,1,whether,The supervisor predicted,,the engineer,confirmed,whether,the technician,installed,,on the main server.
+6,g,1,0,null,The supervisor predicted,what,the engineer,confirmed,,the technician,installed,the new software,on the main server.
+6,h,1,0,that,The supervisor predicted,what,the engineer,confirmed,that,the technician,installed,the new software,on the main server.
+6,i,1,0,whether,The supervisor predicted,what,the engineer,confirmed,whether,the technician,installed,the new software,on the main server.
+6,j,1,1,null,The supervisor predicted,what,the engineer,confirmed,,the technician,installed,,on the main server.
+6,k,1,1,that,The supervisor predicted,what,the engineer,confirmed,that,the technician,installed,,on the main server.
+6,l,1,1,whether,The supervisor predicted,what,the engineer,confirmed,whether,the technician,installed,,on the main server.
+7,a,0,0,null,She learned,,her cousin,revealed,,the babysitter,lost,the house keys,after the party.
+7,b,0,0,that,She learned,,her cousin,revealed,that,the babysitter,lost,the house keys,after the party.
+7,c,0,0,whether,She learned,,her cousin,revealed,whether,the babysitter,lost,the house keys,after the party.
+7,d,0,1,null,She learned,,her cousin,revealed,,the babysitter,lost,,after the party.
+7,e,0,1,that,She learned,,her cousin,revealed,that,the babysitter,lost,,after the party.
+7,f,0,1,whether,She learned,,her cousin,revealed,whether,the babysitter,lost,,after the party.
+7,g,1,0,null,She learned,what,her cousin,revealed,,the babysitter,lost,the house keys,after the party.
+7,h,1,0,that,She learned,what,her cousin,revealed,that,the babysitter,lost,the house keys,after the party.
+7,i,1,0,whether,She learned,what,her cousin,revealed,whether,the babysitter,lost,the house keys,after the party.
+7,j,1,1,null,She learned,what,her cousin,revealed,,the babysitter,lost,,after the party.
+7,k,1,1,that,She learned,what,her cousin,revealed,that,the babysitter,lost,,after the party.
+7,l,1,1,whether,She learned,what,her cousin,revealed,whether,the babysitter,lost,,after the party.
+8,a,0,0,null,The researcher revealed,,the scientist,argued,,the assistant,contaminated,the sample,during the experiment.
+8,b,0,0,that,The researcher revealed,,the scientist,argued,that,the assistant,contaminated,the sample,during the experiment.
+8,c,0,0,whether,The researcher revealed,,the scientist,argued,whether,the assistant,contaminated,the sample,during the experiment.
+8,d,0,1,null,The researcher revealed,,the scientist,argued,,the assistant,contaminated,,during the experiment.
+8,e,0,1,that,The researcher revealed,,the scientist,argued,that,the assistant,contaminated,,during the experiment.
+8,f,0,1,whether,The researcher revealed,,the scientist,argued,whether,the assistant,contaminated,,during the experiment.
+8,g,1,0,null,The researcher revealed,what,the scientist,argued,,the assistant,contaminated,the sample,during the experiment.
+8,h,1,0,that,The researcher revealed,what,the scientist,argued,that,the assistant,contaminated,the sample,during the experiment.
+8,i,1,0,whether,The researcher revealed,what,the scientist,argued,whether,the assistant,contaminated,the sample,during the experiment.
+8,j,1,1,null,The researcher revealed,what,the scientist,argued,,the assistant,contaminated,,during the experiment.
+8,k,1,1,that,The researcher revealed,what,the scientist,argued,that,the assistant,contaminated,,during the experiment.
+8,l,1,1,whether,The researcher revealed,what,the scientist,argued,whether,the assistant,contaminated,,during the experiment.
+9,a,0,0,null,Maria said,,her friend,claimed,,the musician,recorded,the new song,at the downtown studio.
+9,b,0,0,that,Maria said,,her friend,claimed,that,the musician,recorded,the new song,at the downtown studio.
+9,c,0,0,whether,Maria said,,her friend,claimed,whether,the musician,recorded,the new song,at the downtown studio.
+9,d,0,1,null,Maria said,,her friend,claimed,,the musician,recorded,,at the downtown studio.
+9,e,0,1,that,Maria said,,her friend,claimed,that,the musician,recorded,,at the downtown studio.
+9,f,0,1,whether,Maria said,,her friend,claimed,whether,the musician,recorded,,at the downtown studio.
+9,g,1,0,null,Maria said,what,her friend,claimed,,the musician,recorded,the new song,at the downtown studio.
+9,h,1,0,that,Maria said,what,her friend,claimed,that,the musician,recorded,the new song,at the downtown studio.
+9,i,1,0,whether,Maria said,what,her friend,claimed,whether,the musician,recorded,the new song,at the downtown studio.
+9,j,1,1,null,Maria said,what,her friend,claimed,,the musician,recorded,,at the downtown studio.
+9,k,1,1,that,Maria said,what,her friend,claimed,that,the musician,recorded,,at the downtown studio.
+9,l,1,1,whether,Maria said,what,her friend,claimed,whether,the musician,recorded,,at the downtown studio.
+10,a,0,0,null,The professor suspected,,the student,claimed,,her roommate,borrowed,the laptop,without asking.
+10,b,0,0,that,The professor suspected,,the student,claimed,that,her roommate,borrowed,the laptop,without asking.
+10,c,0,0,whether,The professor suspected,,the student,claimed,whether,her roommate,borrowed,the laptop,without asking.
+10,d,0,1,null,The professor suspected,,the student,claimed,,her roommate,borrowed,,without asking.
+10,e,0,1,that,The professor suspected,,the student,claimed,that,her roommate,borrowed,,without asking.
+10,f,0,1,whether,The professor suspected,,the student,claimed,whether,her roommate,borrowed,,without asking.
+10,g,1,0,null,The professor suspected,what,the student,claimed,,her roommate,borrowed,the laptop,without asking.
+10,h,1,0,that,The professor suspected,what,the student,claimed,that,her roommate,borrowed,the laptop,without asking.
+10,i,1,0,whether,The professor suspected,what,the student,claimed,whether,her roommate,borrowed,the laptop,without asking.
+10,j,1,1,null,The professor suspected,what,the student,claimed,,her roommate,borrowed,,without asking.
+10,k,1,1,that,The professor suspected,what,the student,claimed,that,her roommate,borrowed,,without asking.
+10,l,1,1,whether,The professor suspected,what,the student,claimed,whether,her roommate,borrowed,,without asking.
+11,a,0,0,null,The witness saw,,the driver,stated,,the passenger,hid,the package,under the seat.
+11,b,0,0,that,The witness saw,,the driver,stated,that,the passenger,hid,the package,under the seat.
+11,c,0,0,whether,The witness saw,,the driver,stated,whether,the passenger,hid,the package,under the seat.
+11,d,0,1,null,The witness saw,,the driver,stated,,the passenger,hid,,under the seat.
+11,e,0,1,that,The witness saw,,the driver,stated,that,the passenger,hid,,under the seat.
+11,f,0,1,whether,The witness saw,,the driver,stated,whether,the passenger,hid,,under the seat.
+11,g,1,0,null,The witness saw,what,the driver,stated,,the passenger,hid,the package,under the seat.
+11,h,1,0,that,The witness saw,what,the driver,stated,that,the passenger,hid,the package,under the seat.
+11,i,1,0,whether,The witness saw,what,the driver,stated,whether,the passenger,hid,the package,under the seat.
+11,j,1,1,null,The witness saw,what,the driver,stated,,the passenger,hid,,under the seat.
+11,k,1,1,that,The witness saw,what,the driver,stated,that,the passenger,hid,,under the seat.
+11,l,1,1,whether,The witness saw,what,the driver,stated,whether,the passenger,hid,,under the seat.
+12,a,0,0,null,You mentioned,,your coworker,stated,,the intern,sent,the wrong file,to the client.
+12,b,0,0,that,You mentioned,,your coworker,stated,that,the intern,sent,the wrong file,to the client.
+12,c,0,0,whether,You mentioned,,your coworker,stated,whether,the intern,sent,the wrong file,to the client.
+12,d,0,1,null,You mentioned,,your coworker,stated,,the intern,sent,,to the client.
+12,e,0,1,that,You mentioned,,your coworker,stated,that,the intern,sent,,to the client.
+12,f,0,1,whether,You mentioned,,your coworker,stated,whether,the intern,sent,,to the client.
+12,g,1,0,null,You mentioned,what,your coworker,stated,,the intern,sent,the wrong file,to the client.
+12,h,1,0,that,You mentioned,what,your coworker,stated,that,the intern,sent,the wrong file,to the client.
+12,i,1,0,whether,You mentioned,what,your coworker,stated,whether,the intern,sent,the wrong file,to the client.
+12,j,1,1,null,You mentioned,what,your coworker,stated,,the intern,sent,,to the client.
+12,k,1,1,that,You mentioned,what,your coworker,stated,that,the intern,sent,,to the client.
+12,l,1,1,whether,You mentioned,what,your coworker,stated,whether,the intern,sent,,to the client.
+13,a,0,0,null,The team discovered,,the coach,mentioned,,the player,dropped,the ball,during the crucial play.
+13,b,0,0,that,The team discovered,,the coach,mentioned,that,the player,dropped,the ball,during the crucial play.
+13,c,0,0,whether,The team discovered,,the coach,mentioned,whether,the player,dropped,the ball,during the crucial play.
+13,d,0,1,null,The team discovered,,the coach,mentioned,,the player,dropped,,during the crucial play.
+13,e,0,1,that,The team discovered,,the coach,mentioned,that,the player,dropped,,during the crucial play.
+13,f,0,1,whether,The team discovered,,the coach,mentioned,whether,the player,dropped,,during the crucial play.
+13,g,1,0,null,The team discovered,what,the coach,mentioned,,the player,dropped,the ball,during the crucial play.
+13,h,1,0,that,The team discovered,what,the coach,mentioned,that,the player,dropped,the ball,during the crucial play.
+13,i,1,0,whether,The team discovered,what,the coach,mentioned,whether,the player,dropped,the ball,during the crucial play.
+13,j,1,1,null,The team discovered,what,the coach,mentioned,,the player,dropped,,during the crucial play.
+13,k,1,1,that,The team discovered,what,the coach,mentioned,that,the player,dropped,,during the crucial play.
+13,l,1,1,whether,The team discovered,what,the coach,mentioned,whether,the player,dropped,,during the crucial play.
+14,a,0,0,null,The editor confirmed,,the author,admitted,,his assistant,typed,the wrong draft,before submission.
+14,b,0,0,that,The editor confirmed,,the author,admitted,that,his assistant,typed,the wrong draft,before submission.
+14,c,0,0,whether,The editor confirmed,,the author,admitted,whether,his assistant,typed,the wrong draft,before submission.
+14,d,0,1,null,The editor confirmed,,the author,admitted,,his assistant,typed,,before submission.
+14,e,0,1,that,The editor confirmed,,the author,admitted,that,his assistant,typed,,before submission.
+14,f,0,1,whether,The editor confirmed,,the author,admitted,whether,his assistant,typed,,before submission.
+14,g,1,0,null,The editor confirmed,what,the author,admitted,,his assistant,typed,the wrong draft,before submission.
+14,h,1,0,that,The editor confirmed,what,the author,admitted,that,his assistant,typed,the wrong draft,before submission.
+14,i,1,0,whether,The editor confirmed,what,the author,admitted,whether,his assistant,typed,the wrong draft,before submission.
+14,j,1,1,null,The editor confirmed,what,the author,admitted,,his assistant,typed,,before submission.
+14,k,1,1,that,The editor confirmed,what,the author,admitted,that,his assistant,typed,,before submission.
+14,l,1,1,whether,The editor confirmed,what,the author,admitted,whether,his assistant,typed,,before submission.
+15,a,0,0,null,The lawyer suspected,,the defendant,said,,his brother,destroyed,the evidence,after the trial.
+15,b,0,0,that,The lawyer suspected,,the defendant,said,that,his brother,destroyed,the evidence,after the trial.
+15,c,0,0,whether,The lawyer suspected,,the defendant,said,whether,his brother,destroyed,the evidence,after the trial.
+15,d,0,1,null,The lawyer suspected,,the defendant,said,,his brother,destroyed,,after the trial.
+15,e,0,1,that,The lawyer suspected,,the defendant,said,that,his brother,destroyed,,after the trial.
+15,f,0,1,whether,The lawyer suspected,,the defendant,said,whether,his brother,destroyed,,after the trial.
+15,g,1,0,null,The lawyer suspected,what,the defendant,said,,his brother,destroyed,the evidence,after the trial.
+15,h,1,0,that,The lawyer suspected,what,the defendant,said,that,his brother,destroyed,the evidence,after the trial.
+15,i,1,0,whether,The lawyer suspected,what,the defendant,said,whether,his brother,destroyed,the evidence,after the trial.
+15,j,1,1,null,The lawyer suspected,what,the defendant,said,,his brother,destroyed,,after the trial.
+15,k,1,1,that,The lawyer suspected,what,the defendant,said,that,his brother,destroyed,,after the trial.
+15,l,1,1,whether,The lawyer suspected,what,the defendant,said,whether,his brother,destroyed,,after the trial.
+16,a,0,0,null,The coordinator found out,,the volunteer,claimed,,the participant,damaged,the microphone,during the panel discussion.
+16,b,0,0,that,The coordinator found out,,the volunteer,claimed,that,the participant,damaged,the microphone,during the panel discussion.
+16,c,0,0,whether,The coordinator found out,,the volunteer,claimed,whether,the participant,damaged,the microphone,during the panel discussion.
+16,d,0,1,null,The coordinator found out,,the volunteer,claimed,,the participant,damaged,,during the panel discussion.
+16,e,0,1,that,The coordinator found out,,the volunteer,claimed,that,the participant,damaged,,during the panel discussion.
+16,f,0,1,whether,The coordinator found out,,the volunteer,claimed,whether,the participant,damaged,,during the panel discussion.
+16,g,1,0,null,The coordinator found out,what,the volunteer,claimed,,the participant,damaged,the microphone,during the panel discussion.
+16,h,1,0,that,The coordinator found out,what,the volunteer,claimed,that,the participant,damaged,the microphone,during the panel discussion.
+16,i,1,0,whether,The coordinator found out,what,the volunteer,claimed,whether,the participant,damaged,the microphone,during the panel discussion.
+16,j,1,1,null,The coordinator found out,what,the volunteer,claimed,,the participant,damaged,,during the panel discussion.
+16,k,1,1,that,The coordinator found out,what,the volunteer,claimed,that,the participant,damaged,,during the panel discussion.
+16,l,1,1,whether,The coordinator found out,what,the volunteer,claimed,whether,the participant,damaged,,during the panel discussion.
+17,a,0,0,null,The analyst realized,,the investor,hinted,,the advisor,miscalculated,the expenses,during the audit.
+17,b,0,0,that,The analyst realized,,the investor,hinted,that,the advisor,miscalculated,the expenses,during the audit.
+17,c,0,0,whether,The analyst realized,,the investor,hinted,whether,the advisor,miscalculated,the expenses,during the audit.
+17,d,0,1,null,The analyst realized,,the investor,hinted,,the advisor,miscalculated,,during the audit.
+17,e,0,1,that,The analyst realized,,the investor,hinted,that,the advisor,miscalculated,,during the audit.
+17,f,0,1,whether,The analyst realized,,the investor,hinted,whether,the advisor,miscalculated,,during the audit.
+17,g,1,0,null,The analyst realized,what,the investor,hinted,,the advisor,miscalculated,the expenses,during the audit.
+17,h,1,0,that,The analyst realized,what,the investor,hinted,that,the advisor,miscalculated,the expenses,during the audit.
+17,i,1,0,whether,The analyst realized,what,the investor,hinted,whether,the advisor,miscalculated,the expenses,during the audit.
+17,j,1,1,null,The analyst realized,what,the investor,hinted,,the advisor,miscalculated,,during the audit.
+17,k,1,1,that,The analyst realized,what,the investor,hinted,that,the advisor,miscalculated,,during the audit.
+17,l,1,1,whether,The analyst realized,what,the investor,hinted,whether,the advisor,miscalculated,,during the audit.
+18,a,0,0,null,The nurse reported,,the doctor,said,,the intern,administered,the wrong medicine,to the patient.
+18,b,0,0,that,The nurse reported,,the doctor,said,that,the intern,administered,the wrong medicine,to the patient.
+18,c,0,0,whether,The nurse reported,,the doctor,said,whether,the intern,administered,the wrong medicine,to the patient.
+18,d,0,1,null,The nurse reported,,the doctor,said,,the intern,administered,,to the patient.
+18,e,0,1,that,The nurse reported,,the doctor,said,that,the intern,administered,,to the patient.
+18,f,0,1,whether,The nurse reported,,the doctor,said,whether,the intern,administered,,to the patient.
+18,g,1,0,null,The nurse reported,what,the doctor,said,,the intern,administered,the wrong medicine,to the patient.
+18,h,1,0,that,The nurse reported,what,the doctor,said,that,the intern,administered,the wrong medicine,to the patient.
+18,i,1,0,whether,The nurse reported,what,the doctor,said,whether,the intern,administered,the wrong medicine,to the patient.
+18,j,1,1,null,The nurse reported,what,the doctor,said,,the intern,administered,,to the patient.
+18,k,1,1,that,The nurse reported,what,the doctor,said,that,the intern,administered,,to the patient.
+18,l,1,1,whether,The nurse reported,what,the doctor,said,whether,the intern,administered,,to the patient.
+19,a,0,0,null,John noticed,,his classmate,mentioned,,the librarian,found,the missing book,in the archives.
+19,b,0,0,that,John noticed,,his classmate,mentioned,that,the librarian,found,the missing book,in the archives.
+19,c,0,0,whether,John noticed,,his classmate,mentioned,whether,the librarian,found,the missing book,in the archives.
+19,d,0,1,null,John noticed,,his classmate,mentioned,,the librarian,found,,in the archives.
+19,e,0,1,that,John noticed,,his classmate,mentioned,that,the librarian,found,,in the archives.
+19,f,0,1,whether,John noticed,,his classmate,mentioned,whether,the librarian,found,,in the archives.
+19,g,1,0,null,John noticed,what,his classmate,mentioned,,the librarian,found,the missing book,in the archives.
+19,h,1,0,that,John noticed,what,his classmate,mentioned,that,the librarian,found,the missing book,in the archives.
+19,i,1,0,whether,John noticed,what,his classmate,mentioned,whether,the librarian,found,the missing book,in the archives.
+19,j,1,1,null,John noticed,what,his classmate,mentioned,,the librarian,found,,in the archives.
+19,k,1,1,that,John noticed,what,his classmate,mentioned,that,the librarian,found,,in the archives.
+19,l,1,1,whether,John noticed,what,his classmate,mentioned,whether,the librarian,found,,in the archives.
+20,a,0,0,null,You discovered,,your roommate,said,,the delivery guy,left,the package,outside the door.
+20,b,0,0,that,You discovered,,your roommate,said,that,the delivery guy,left,the package,outside the door.
+20,c,0,0,whether,You discovered,,your roommate,said,whether,the delivery guy,left,the package,outside the door.
+20,d,0,1,null,You discovered,,your roommate,said,,the delivery guy,left,,outside the door.
+20,e,0,1,that,You discovered,,your roommate,said,that,the delivery guy,left,,outside the door.
+20,f,0,1,whether,You discovered,,your roommate,said,whether,the delivery guy,left,,outside the door.
+20,g,1,0,null,You discovered,what,your roommate,said,,the delivery guy,left,the package,outside the door.
+20,h,1,0,that,You discovered,what,your roommate,said,that,the delivery guy,left,the package,outside the door.
+20,i,1,0,whether,You discovered,what,your roommate,said,whether,the delivery guy,left,the package,outside the door.
+20,j,1,1,null,You discovered,what,your roommate,said,,the delivery guy,left,,outside the door.
+20,k,1,1,that,You discovered,what,your roommate,said,that,the delivery guy,left,,outside the door.
+20,l,1,1,whether,You discovered,what,your roommate,said,whether,the delivery guy,left,,outside the door.
